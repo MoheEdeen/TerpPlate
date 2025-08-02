@@ -1,22 +1,62 @@
-import React, { useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import SpringModal from "./SpringModal";
 import data from "../../data/16_test.json";
 import Card from "./card";
 import { ListFilter } from "lucide-react";
 const WelcomeSection = ({ searchTerm }: { searchTerm: string }) => {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [selected, setSelected] = useState<any | null>(null);
+  const [selectedAllergen, setSelectedAllergen] = useState<string>("ALL");
+  const [showFilter, setShowFilter] = useState(false);
+  const filterRef = useRef<HTMLDivElement>(null);
+  const [sortKey, setSortKey] = useState<string>("None");
+  const [sortOrder, setSortOrder] = useState<"asc" | "desc">("asc");
 
-  const filteredData = data.filter((food) => {
-    const term = searchTerm.toLowerCase();
-    const nameMatch = food.name.toLowerCase().includes(term);
-    const allergenMatch = food.allergens.some((allergen) =>
-      allergen.toLowerCase().includes(term)
-    );
-    return nameMatch || allergenMatch;
-  });
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (
+        filterRef.current &&
+        !filterRef.current.contains(event.target as Node)
+      ) {
+        setShowFilter(false);
+      }
+    };
+
+    if (showFilter) {
+      document.addEventListener("mousedown", handleClickOutside);
+    }
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, [showFilter]);
+
+  const filteredData = [...data]
+    .filter((food) => {
+      const term = searchTerm.toLowerCase();
+      const nameMatch = food.name.toLowerCase().includes(term);
+      const allergenMatch = food.allergens.some((allergen) =>
+        allergen.toLowerCase().includes(term)
+      );
+      const allergenFilterMatch =
+        selectedAllergen === "ALL" || food.allergens.includes(selectedAllergen);
+
+      return (nameMatch || allergenMatch) && allergenFilterMatch;
+    })
+    .sort((a, b) => {
+      if (sortKey === "none") return 0;
+
+      const valA = Number(a.calories);
+
+      const valB = Number(b.calories);
+
+      if (isNaN(valA) || isNaN(valB)) return 0;
+
+      return sortOrder === "asc" ? valA - valB : valB - valA;
+    });
 
   const filter = () => {
-    console.log("hi");
+    setShowFilter((prev) => !prev);
   };
 
   return (
@@ -30,6 +70,68 @@ const WelcomeSection = ({ searchTerm }: { searchTerm: string }) => {
             <button onClick={filter} className="cursor-pointer">
               <ListFilter />
             </button>
+            {showFilter && (
+              <div
+                ref={filterRef}
+                className="absolute top-30 right-10 bg-white rounded-md shadow-lg p-4 z-100"
+              >
+                <label
+                  htmlFor="allergen-select"
+                  className="block text-sm font-medium text-gray-700 mb-2"
+                >
+                  Filter by Allergen:
+                </label>
+                <select
+                  id="allergen-select"
+                  className="w-full text-sm uppercase border-gray-300 rounded-md mb-6 shadow-sm"
+                  value={selectedAllergen}
+                  onChange={(e) => setSelectedAllergen(e.target.value)}
+                >
+                  <option value="ALL" className="text-sm uppercase">
+                    ALL
+                  </option>
+                  {[...new Set(data.flatMap((item) => item.allergens))].map(
+                    (allergen) => (
+                      <option
+                        className="text-sm uppercase"
+                        key={allergen}
+                        value={allergen}
+                      >
+                        {allergen}
+                      </option>
+                    )
+                  )}
+                </select>
+                <label className="block text-sm font-medium text-gray-700 mb-2">
+                  Sort by:
+                </label>
+                <select
+                  className="w-full text-sm border-gray-300 rounded-md mb-4 shadow-sm"
+                  value={sortKey}
+                  onChange={(e) => setSortKey(e.target.value)}
+                >
+                  <option value="None">None</option>
+
+                  <option key="Calories" value="calories">
+                    Calories
+                  </option>
+                </select>
+
+                <label className="block text-sm font-medium text-gray-700 mb-2">
+                  Sort order:
+                </label>
+                <select
+                  className="w-full text-sm border-gray-300 rounded-md shadow-sm"
+                  value={sortOrder}
+                  onChange={(e) =>
+                    setSortOrder(e.target.value === "asc" ? "asc" : "desc")
+                  }
+                >
+                  <option value="asc">Ascending</option>
+                  <option value="desc">Descending</option>
+                </select>
+              </div>
+            )}
           </span>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6 place-items-center">
