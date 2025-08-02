@@ -1,0 +1,7631 @@
+[
+  {
+    "name": "Bacon",
+    "calories": "242",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 ea",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "21.2g",
+      "carbs": "0g",
+      "saturated_fat": "7.6g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "45.4mg",
+      "sodium": "997.9mg",
+      "protein": "15.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pancakes Plain",
+    "calories": "107",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 ea",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "3.8g",
+      "carbs": "15.9g",
+      "saturated_fat": "1.9g",
+      "fiber": "0.4g",
+      "sugars": "4.2g",
+      "cholesterol": "9.2mg",
+      "sodium": "284mg",
+      "protein": "1.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Apple Filling",
+    "calories": "80",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "20g",
+      "saturated_fat": "0g",
+      "fiber": "1g",
+      "sugars": "17g",
+      "cholesterol": "0mg",
+      "sodium": "50mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Breakfast Potatoes w/ Peppers & Onions",
+    "calories": "69",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.4g",
+      "carbs": "14.9g",
+      "saturated_fat": "0g",
+      "fiber": "1.7g",
+      "sugars": "1.8g",
+      "cholesterol": "0mg",
+      "sodium": "5.3mg",
+      "protein": "1.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Butter",
+    "calories": "203",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "22.3g",
+      "carbs": "0g",
+      "saturated_fat": "14.2g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "60.8mg",
+      "sodium": "0mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cherry Filling",
+    "calories": "33",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "8.7g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "4.7g",
+      "cholesterol": "0mg",
+      "sodium": "10mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Maple Syrup",
+    "calories": "58",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "15g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "14.4g",
+      "cholesterol": "0mg",
+      "sodium": "66.4mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Margarine",
+    "calories": "203",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "22.3g",
+      "carbs": "0g",
+      "saturated_fat": "10.1g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "212.6mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Banana Chocolate Chip French Toast Casserole",
+    "calories": "501",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "9.8g",
+      "carbs": "90.6g",
+      "saturated_fat": "3.1g",
+      "fiber": "4.1g",
+      "sugars": "17.9g",
+      "cholesterol": "0mg",
+      "sodium": "945.6mg",
+      "protein": "16.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Chicken Slider",
+    "calories": "219",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "10.3g",
+      "carbs": "18g",
+      "saturated_fat": "0g",
+      "fiber": "2.6g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "399.5mg",
+      "protein": "16.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Waffle French Toast",
+    "calories": "808",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "21.3g",
+      "carbs": "135.9g",
+      "saturated_fat": "1.9g",
+      "fiber": "21g",
+      "sugars": "24g",
+      "cholesterol": "0mg",
+      "sodium": "1804.7mg",
+      "protein": "21.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Mango Pineapple Barley Pudding",
+    "calories": "164",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "5.4g",
+      "carbs": "26.1g",
+      "saturated_fat": "0.4g",
+      "fiber": "3g",
+      "sugars": "6.1g",
+      "cholesterol": "0mg",
+      "sodium": "37mg",
+      "protein": "2.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Roasted Chick Peas, Sweet Potatoes and Peppers",
+    "calories": "156",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.8g",
+      "carbs": "30.8g",
+      "saturated_fat": "0.1g",
+      "fiber": "6.1g",
+      "sugars": "8.3g",
+      "cholesterol": "0mg",
+      "sodium": "74.7mg",
+      "protein": "5.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Cream Cheese",
+    "calories": "76",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.6g",
+      "carbs": "3.8g",
+      "saturated_fat": "4.3g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "113.4mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Sour Cream",
+    "calories": "40",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "3g",
+      "carbs": "3g",
+      "saturated_fat": "0g",
+      "fiber": null,
+      "sugars": null,
+      "cholesterol": "0mg",
+      "sodium": "30mg",
+      "protein": "1g",
+      "trans_fat": null
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Vanilla Soy-Free Yogurt",
+    "calories": "106",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.6g",
+      "carbs": "15.9g",
+      "saturated_fat": "0g",
+      "fiber": "1.5g",
+      "sugars": "12.1g",
+      "cholesterol": "0mg",
+      "sodium": "68mg",
+      "protein": "4.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Scrambled Cheesy Cheddar Egg",
+    "calories": "215",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "15.5g",
+      "carbs": "1.2g",
+      "saturated_fat": "4.7g",
+      "fiber": "0g",
+      "sugars": "1.2g",
+      "cholesterol": "490mg",
+      "sodium": "198.3mg",
+      "protein": "16.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Scrambled Eggs",
+    "calories": "192",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "13.7g",
+      "carbs": "1.2g",
+      "saturated_fat": "3.6g",
+      "fiber": "0g",
+      "sugars": "1.2g",
+      "cholesterol": "483.8mg",
+      "sodium": "161.3mg",
+      "protein": "15g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "American Cheese Sliced",
+    "calories": "56",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "4.6g",
+      "carbs": "0.5g",
+      "saturated_fat": "2.5g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "10.1mg",
+      "sodium": "182.3mg",
+      "protein": "3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cheddar Cheese Sliced",
+    "calories": "54",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "4.7g",
+      "carbs": "0g",
+      "saturated_fat": "2.7g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "16.9mg",
+      "sodium": "94.5mg",
+      "protein": "3.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grilled Croissant",
+    "calories": "236",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "12.8g",
+      "carbs": "24.9g",
+      "saturated_fat": "7.2g",
+      "fiber": "1g",
+      "sugars": "2g",
+      "cholesterol": "39.9mg",
+      "sodium": "1.6mg",
+      "protein": "4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Hard Boiled Egg (Breakfast)",
+    "calories": "79",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "5.7g",
+      "carbs": "0g",
+      "saturated_fat": "1.7g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "209.8mg",
+      "sodium": "79.4mg",
+      "protein": "6.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Mushroom, Spinach & Tomato Vegetable Hash",
+    "calories": "120",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "4.4g",
+      "carbs": "19.1g",
+      "saturated_fat": "0.3g",
+      "fiber": "6.8g",
+      "sugars": "1.2g",
+      "cholesterol": "0mg",
+      "sodium": "412.1mg",
+      "protein": "7.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Over Hard Fried Eggs",
+    "calories": "90",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 ea",
+    "allergens": [
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.8g",
+      "carbs": "0g",
+      "saturated_fat": "1.8g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "209.8mg",
+      "sodium": "79.4mg",
+      "protein": "6.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Scrambled Egg Whites",
+    "calories": "72",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "egg",
+      "smartchoice",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.8g",
+      "carbs": "1.1g",
+      "saturated_fat": "0.1g",
+      "fiber": "0g",
+      "sugars": "1.1g",
+      "cholesterol": "0mg",
+      "sodium": "192.8mg",
+      "protein": "12.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Blueberry Yogurt",
+    "calories": "68",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "14.3g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "11.3g",
+      "cholesterol": "0mg",
+      "sodium": "37.6mg",
+      "protein": "2.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cantaloupe",
+    "calories": "46",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "11g",
+      "saturated_fat": "0g",
+      "fiber": "0.9g",
+      "sugars": "10.1g",
+      "cholesterol": "0mg",
+      "sodium": "18.3mg",
+      "protein": "0.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cereal Granola",
+    "calories": "194",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "5 oz",
+    "allergens": [
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.4g",
+      "carbs": "41.7g",
+      "saturated_fat": "0g",
+      "fiber": "3.9g",
+      "sugars": "13.6g",
+      "cholesterol": "0mg",
+      "sodium": "82.4mg",
+      "protein": "3.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chicken Congee",
+    "calories": "222",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "6g",
+      "carbs": "36.9g",
+      "saturated_fat": "0.6g",
+      "fiber": "0.8g",
+      "sugars": "3.1g",
+      "cholesterol": "17.8mg",
+      "sodium": "616mg",
+      "protein": "8.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chopped Green Onions",
+    "calories": "9",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "2.1g",
+      "saturated_fat": "0g",
+      "fiber": "0.8g",
+      "sugars": "0.6g",
+      "cholesterol": "0mg",
+      "sodium": "4.6mg",
+      "protein": "0.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cottage Cheese",
+    "calories": "40",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.5g",
+      "carbs": "3g",
+      "saturated_fat": "0.3g",
+      "fiber": "0g",
+      "sugars": "2g",
+      "cholesterol": "5mg",
+      "sodium": "160.6mg",
+      "protein": "5.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cubed Bread",
+    "calories": "71",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "15.2g",
+      "saturated_fat": "0g",
+      "fiber": "0.5g",
+      "sugars": "0.5g",
+      "cholesterol": "0mg",
+      "sodium": "172mg",
+      "protein": "2.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Fresh Blueberry",
+    "calories": "52",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "12.3g",
+      "saturated_fat": "0g",
+      "fiber": "3.2g",
+      "sugars": "5.8g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Fresh Strawberry",
+    "calories": "9",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "1.9g",
+      "saturated_fat": "0g",
+      "fiber": "0.9g",
+      "sugars": "2.8g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Fried Shallot",
+    "calories": "18",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "4.2g",
+      "saturated_fat": "0g",
+      "fiber": "0.2g",
+      "sugars": "0.8g",
+      "cholesterol": "0mg",
+      "sodium": "3mg",
+      "protein": "0.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grapefruit Half",
+    "calories": "37",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 half",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "9.2g",
+      "saturated_fat": "0g",
+      "fiber": "1.4g",
+      "sugars": null,
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grapes",
+    "calories": "39",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "10g",
+      "saturated_fat": "0g",
+      "fiber": "0.5g",
+      "sugars": "9.1g",
+      "cholesterol": "0mg",
+      "sodium": "3.9mg",
+      "protein": "0.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grits",
+    "calories": "60",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.2g",
+      "carbs": "13.5g",
+      "saturated_fat": "0g",
+      "fiber": "0.9g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "1.4mg",
+      "protein": "1.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Kimchi",
+    "calories": "17",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "0.3g",
+      "carbs": "3.2g",
+      "saturated_fat": "0g",
+      "fiber": "0.7g",
+      "sugars": "1.6g",
+      "cholesterol": "0mg",
+      "sodium": "70.6mg",
+      "protein": "0.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Lite Soy Sauce",
+    "calories": "20",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "2g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "1135.6mg",
+      "protein": "2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Oatmeal",
+    "calories": "340",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "gluten",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.8g",
+      "carbs": "61.2g",
+      "saturated_fat": "1.1g",
+      "fiber": "9.1g",
+      "sugars": "2.3g",
+      "cholesterol": "0mg",
+      "sodium": "3.6mg",
+      "protein": "11.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Peaches in syrup",
+    "calories": "31",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "8.3g",
+      "saturated_fat": "0g",
+      "fiber": "0.7g",
+      "sugars": "7.5g",
+      "cholesterol": "0mg",
+      "sodium": "2.8mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pears in syrup",
+    "calories": "28",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "7.3g",
+      "saturated_fat": "0g",
+      "fiber": "0.9g",
+      "sugars": "5.5g",
+      "cholesterol": "0mg",
+      "sodium": "2.3mg",
+      "protein": "0.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pineapple",
+    "calories": "40",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "10.5g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "7.4g",
+      "cholesterol": "0mg",
+      "sodium": "0.9mg",
+      "protein": "0.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Roasted Corn",
+    "calories": "126",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.5g",
+      "carbs": "26.4g",
+      "saturated_fat": "0g",
+      "fiber": "1.3g",
+      "sugars": "6.1g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "3.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sliced Lemons",
+    "calories": "3",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "1.2g",
+      "saturated_fat": "0g",
+      "fiber": "0.5g",
+      "sugars": "0.5g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Special K Berry",
+    "calories": "503",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "5 oz",
+    "allergens": [
+      "gluten",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "123.5g",
+      "saturated_fat": "0g",
+      "fiber": "13.7g",
+      "sugars": "41.2g",
+      "cholesterol": "0mg",
+      "sodium": "868.8mg",
+      "protein": "9.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Strawberry Yogurt",
+    "calories": "67",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "14.2g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "10.9g",
+      "cholesterol": "1.9mg",
+      "sodium": "39.3mg",
+      "protein": "2.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Yogurt Plain",
+    "calories": "77",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.8g",
+      "carbs": "14.7g",
+      "saturated_fat": "0.6g",
+      "fiber": "0g",
+      "sugars": "12g",
+      "cholesterol": "3.9mg",
+      "sodium": "54.1mg",
+      "protein": "3.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Kale Strawberry Cantaloupe Smoothie",
+    "calories": "73",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.2g",
+      "carbs": "17.2g",
+      "saturated_fat": "0g",
+      "fiber": "1.6g",
+      "sugars": "15g",
+      "cholesterol": "0mg",
+      "sodium": "19.2mg",
+      "protein": "1.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Mini Cinnamon Bun",
+    "calories": "193",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "8.8g",
+      "carbs": "23.8g",
+      "saturated_fat": "5.7g",
+      "fiber": "1.1g",
+      "sugars": "9.1g",
+      "cholesterol": "27.2mg",
+      "sodium": "208.7mg",
+      "protein": "3.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Mini Croissant",
+    "calories": "123",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "5.5g",
+      "carbs": "14.8g",
+      "saturated_fat": "3.7g",
+      "fiber": "0g",
+      "sugars": "1.2g",
+      "cholesterol": "18.5mg",
+      "sodium": "135.5mg",
+      "protein": "2.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Peach Strawberry Banana Yogurt Smoothie",
+    "calories": "85",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.4g",
+      "carbs": "18.5g",
+      "saturated_fat": "0.3g",
+      "fiber": "0.9g",
+      "sugars": "15.1g",
+      "cholesterol": "1.9mg",
+      "sodium": "26.8mg",
+      "protein": "1.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Bagels",
+    "calories": "295",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 ea",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "1.2g",
+      "carbs": "60.5g",
+      "saturated_fat": "0.3g",
+      "fiber": "4.7g",
+      "sugars": "5g",
+      "cholesterol": "3.4mg",
+      "sodium": "376.6mg",
+      "protein": "10g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cream Cheese Onion and Chive",
+    "calories": "92",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "8.1g",
+      "carbs": "1.4g",
+      "saturated_fat": "5.4g",
+      "fiber": "0.1g",
+      "sugars": "1.2g",
+      "cholesterol": "22.5mg",
+      "sodium": "85.7mg",
+      "protein": "8.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Donuts",
+    "calories": "138",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 EACH",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "7.3g",
+      "carbs": "17g",
+      "saturated_fat": "2.4g",
+      "fiber": "0.6g",
+      "sugars": "2.3g",
+      "cholesterol": "7.7mg",
+      "sodium": "131.1mg",
+      "protein": "1.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Plain Cream Cheese",
+    "calories": "101",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "9.1g",
+      "carbs": "1g",
+      "saturated_fat": "6.1g",
+      "fiber": "0g",
+      "sugars": "1g",
+      "cholesterol": "25.3mg",
+      "sodium": "96.2mg",
+      "protein": "9.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Strawberry Cream Cheese",
+    "calories": "100",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "7.3g",
+      "carbs": "4.9g",
+      "saturated_fat": "4.9g",
+      "fiber": "0.3g",
+      "sugars": "4.3g",
+      "cholesterol": "20.3mg",
+      "sodium": "78.5mg",
+      "protein": "7.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Strawberry Topping",
+    "calories": "94",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "20.5g",
+      "saturated_fat": "0g",
+      "fiber": "1.6g",
+      "sugars": "17.3g",
+      "cholesterol": "0mg",
+      "sodium": "7.9mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Waffle",
+    "calories": "785",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "7 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "47.9g",
+      "carbs": "71.9g",
+      "saturated_fat": "26.8g",
+      "fiber": "0g",
+      "sugars": "8.9g",
+      "cholesterol": "392.8mg",
+      "sodium": "1342.3mg",
+      "protein": "16.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Whipped Cream",
+    "calories": "35",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.4g",
+      "carbs": "2.4g",
+      "saturated_fat": "2.4g",
+      "fiber": "0g",
+      "sugars": "2.4g",
+      "cholesterol": "11.8mg",
+      "sodium": "0mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cheese Bacon Breakfast Bagel Sandwich",
+    "calories": "1244",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "66.3g",
+      "carbs": "135.8g",
+      "saturated_fat": "23.7g",
+      "fiber": "13.9g",
+      "sugars": "14.9g",
+      "cholesterol": "90.7mg",
+      "sodium": "3963.5mg",
+      "protein": "37.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Pancake Gluten Free",
+    "calories": "128",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "3g",
+      "carbs": "22.6g",
+      "saturated_fat": "0.2g",
+      "fiber": "0.7g",
+      "sugars": "3.4g",
+      "cholesterol": "0mg",
+      "sodium": "118.9mg",
+      "protein": "2.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Blueberry Compote",
+    "calories": "32",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.2g",
+      "carbs": "8.2g",
+      "saturated_fat": "0g",
+      "fiber": "0.7g",
+      "sugars": "7.5g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Earth Balance Soy Free Spread",
+    "calories": "203",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "22.3g",
+      "carbs": "0g",
+      "saturated_fat": "5.1g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "222.8mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pancake Syrup",
+    "calories": "0",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "30.6g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "16.8g",
+      "cholesterol": "0mg",
+      "sodium": "39.5mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cheeseburger with American Cheese",
+    "calories": "283",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "22.8g",
+      "carbs": "0.5g",
+      "saturated_fat": "9.7g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "73.6mg",
+      "sodium": "445.9mg",
+      "protein": "18.9g",
+      "trans_fat": "0.8g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grilled Smoked Polish Sausage",
+    "calories": "263",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "21.3g",
+      "carbs": "1g",
+      "saturated_fat": "9.1g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "55.7mg",
+      "sodium": "1306.1mg",
+      "protein": "16.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grilled Southwestern Chipotle Pesto Chicken Thigh",
+    "calories": "177",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "halalfriendly"
+    ],
+    "nutrition": {
+      "total_fat": "9.3g",
+      "carbs": "1.4g",
+      "saturated_fat": "1.4g",
+      "fiber": "0.1g",
+      "sugars": "0.3g",
+      "cholesterol": "106.3mg",
+      "sodium": "269mg",
+      "protein": "22.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "BBQ Sauce",
+    "calories": "56",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "14g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "13.1g",
+      "cholesterol": "0mg",
+      "sodium": "364.7mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Bacon Bits",
+    "calories": "127",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "8.7g",
+      "carbs": "0.5g",
+      "saturated_fat": "3.1g",
+      "fiber": "0.2g",
+      "sugars": "0.5g",
+      "cholesterol": "37.1mg",
+      "sodium": "603.5mg",
+      "protein": "12g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Banana Peppers",
+    "calories": "5",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0.9g",
+      "saturated_fat": "0g",
+      "fiber": "0.9g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "378mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Dijon Mustard",
+    "calories": "30",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "711mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grilled Mushrooms",
+    "calories": "16",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.3g",
+      "carbs": "2g",
+      "saturated_fat": "0g",
+      "fiber": "0.7g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "10.1mg",
+      "protein": "2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grilled Onions",
+    "calories": "13",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.3g",
+      "carbs": "2.4g",
+      "saturated_fat": "0g",
+      "fiber": "0.3g",
+      "sugars": "1.1g",
+      "cholesterol": "0mg",
+      "sodium": "0.7mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grilled Peppers",
+    "calories": "7",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 `oz",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.4g",
+      "carbs": "0.9g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Guacamole",
+    "calories": "24",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.4g",
+      "carbs": "1.4g",
+      "saturated_fat": "0.5g",
+      "fiber": "0.5g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "56.7mg",
+      "protein": "0.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pico de Gallo",
+    "calories": "7",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "1.5g",
+      "saturated_fat": "0g",
+      "fiber": "0.4g",
+      "sugars": "0.8g",
+      "cholesterol": "0mg",
+      "sodium": "92.1mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Potato Hamburger Roll",
+    "calories": "123",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.9g",
+      "carbs": "22.6g",
+      "saturated_fat": "0g",
+      "fiber": "0.9g",
+      "sugars": "1.9g",
+      "cholesterol": "0mg",
+      "sodium": "198.1mg",
+      "protein": "3.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Potato Hot Dog Roll",
+    "calories": "140",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.5g",
+      "carbs": "27g",
+      "saturated_fat": "0g",
+      "fiber": "1g",
+      "sugars": "4g",
+      "cholesterol": "0mg",
+      "sodium": "250mg",
+      "protein": "4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Seasoned Spiral Fries",
+    "calories": "162",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "gluten",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "8.1g",
+      "carbs": "20.3g",
+      "saturated_fat": "2.1g",
+      "fiber": "2g",
+      "sugars": "0.2g",
+      "cholesterol": "0mg",
+      "sodium": "435.5mg",
+      "protein": "2.1g",
+      "trans_fat": "0.2g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Shredded Lettuce",
+    "calories": "5",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0.9g",
+      "saturated_fat": "0g",
+      "fiber": "0.3g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "2.3mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sliced Red Onion",
+    "calories": "11",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "2.6g",
+      "saturated_fat": "0g",
+      "fiber": "0.5g",
+      "sugars": "1.2g",
+      "cholesterol": "0mg",
+      "sodium": "1.1mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sliced Tomatoes",
+    "calories": "7",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 each",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "1.5g",
+      "saturated_fat": null,
+      "fiber": "0.5g",
+      "sugars": "1g",
+      "cholesterol": null,
+      "sodium": null,
+      "protein": "0.3g",
+      "trans_fat": null
+    },
+    "scraped": true
+  },
+  {
+    "name": "Spicy Brown Mustard",
+    "calories": "148",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "9.1g",
+      "carbs": "11g",
+      "saturated_fat": "0.5g",
+      "fiber": "4.6g",
+      "sugars": "2.1g",
+      "cholesterol": "0mg",
+      "sodium": "1.6mg",
+      "protein": "7.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "BBQ Beef Cheddar Grilled Cheese Sandwich",
+    "calories": "432",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "25.2g",
+      "carbs": "28.9g",
+      "saturated_fat": "11g",
+      "fiber": "2.9g",
+      "sugars": "10.6g",
+      "cholesterol": "85.9mg",
+      "sodium": "727.2mg",
+      "protein": "24.5g",
+      "trans_fat": "0.9g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cheddar Grilled Cheese Sandwich",
+    "calories": "343",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "20.3g",
+      "carbs": "24.5g",
+      "saturated_fat": "10.8g",
+      "fiber": "3.6g",
+      "sugars": "2.7g",
+      "cholesterol": "67.5mg",
+      "sodium": "622.5mg",
+      "protein": "19.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Mushroom Spinach Provolone Grilled Cheese Sandwich",
+    "calories": "326",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "14.5g",
+      "carbs": "30.1g",
+      "saturated_fat": "6.5g",
+      "fiber": "6g",
+      "sugars": "2.9g",
+      "cholesterol": "32.4mg",
+      "sodium": "689.4mg",
+      "protein": "23g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cream of Tomato Soup",
+    "calories": "187",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "6 oz",
+    "allergens": [
+      "dairy",
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "11.5g",
+      "carbs": "17.3g",
+      "saturated_fat": "4.3g",
+      "fiber": "2.9g",
+      "sugars": "11.5g",
+      "cholesterol": "14.4mg",
+      "sodium": "1123.2mg",
+      "protein": "2.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Jerk Spice Roasted Yukon Gold Potatoes",
+    "calories": "77",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.9g",
+      "carbs": "14.9g",
+      "saturated_fat": "0.1g",
+      "fiber": "1.1g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "69.5mg",
+      "protein": "1.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Old Bay Kettle Potato Chip",
+    "calories": "167",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "gluten",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "8.1g",
+      "carbs": "21.3g",
+      "saturated_fat": "2.1g",
+      "fiber": "2g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "248.2mg",
+      "protein": "2.1g",
+      "trans_fat": "0.2g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sour Cream and Onion Dip",
+    "calories": "32",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.3g",
+      "carbs": "7.7g",
+      "saturated_fat": "1.1g",
+      "fiber": "0.3g",
+      "sugars": "0.9g",
+      "cholesterol": "6.2mg",
+      "sodium": "22.8mg",
+      "protein": "0.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Tomato Bacon Cream Cheese Dip",
+    "calories": "40",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy"
+    ],
+    "nutrition": {
+      "total_fat": "8.5g",
+      "carbs": "5.4g",
+      "saturated_fat": "4.1g",
+      "fiber": "0.2g",
+      "sugars": "0.6g",
+      "cholesterol": "22.1mg",
+      "sodium": "290.7mg",
+      "protein": "5.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Carved Smoked Turkey Breast",
+    "calories": "168",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "smartchoice"
+    ],
+    "nutrition": {
+      "total_fat": "6.5g",
+      "carbs": "3.4g",
+      "saturated_fat": "1.3g",
+      "fiber": "1.3g",
+      "sugars": "1.3g",
+      "cholesterol": "64.6mg",
+      "sodium": "808.6mg",
+      "protein": "25.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Beef Gravy",
+    "calories": "35",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "gluten"
+    ],
+    "nutrition": {
+      "total_fat": "2.8g",
+      "carbs": "2.2g",
+      "saturated_fat": "0.2g",
+      "fiber": "0.1g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "18mg",
+      "protein": "0.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Bread Stuffing",
+    "calories": "164",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "8.6g",
+      "carbs": "17.7g",
+      "saturated_fat": "2.9g",
+      "fiber": "0.9g",
+      "sugars": "1.8g",
+      "cholesterol": "0mg",
+      "sodium": "495.8mg",
+      "protein": "3.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cheddar Macaroni and Cheese",
+    "calories": "663",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "7.6g",
+      "carbs": "128.7g",
+      "saturated_fat": "2.1g",
+      "fiber": "6g",
+      "sugars": "6.6g",
+      "cholesterol": "10.9mg",
+      "sodium": "211.2mg",
+      "protein": "23.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chef's Fresh Mashed Potatoes",
+    "calories": "207",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "4.2g",
+      "carbs": "36.4g",
+      "saturated_fat": "2.7g",
+      "fiber": "2.8g",
+      "sugars": "0.5g",
+      "cholesterol": "11.8mg",
+      "sodium": "18.9mg",
+      "protein": "4.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Collard Green with Smoked Turkey",
+    "calories": "50",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "0.2g",
+      "carbs": "7.7g",
+      "saturated_fat": "0g",
+      "fiber": "1.9g",
+      "sugars": "1.6g",
+      "cholesterol": "11mg",
+      "sodium": "45.6mg",
+      "protein": "5.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cornbread Muffin",
+    "calories": "192",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "5g",
+      "carbs": "33.3g",
+      "saturated_fat": "1g",
+      "fiber": "1g",
+      "sugars": "13.1g",
+      "cholesterol": "15.1mg",
+      "sodium": "393.6mg",
+      "protein": "2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Fresh Roasted Carrots",
+    "calories": "45",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.1g",
+      "carbs": "7g",
+      "saturated_fat": "0.1g",
+      "fiber": "2g",
+      "sugars": "4g",
+      "cholesterol": "0mg",
+      "sodium": "60mg",
+      "protein": "1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Fresh Steamed Broccoli",
+    "calories": "10",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "1.8g",
+      "saturated_fat": "0g",
+      "fiber": "0.7g",
+      "sugars": "0.5g",
+      "cholesterol": "0mg",
+      "sodium": "18.4mg",
+      "protein": "0.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Fresh Steamed Green Beans",
+    "calories": "21",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "5.3g",
+      "saturated_fat": "0g",
+      "fiber": "2.1g",
+      "sugars": "1.1g",
+      "cholesterol": "0mg",
+      "sodium": "25.6mg",
+      "protein": "1.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Green Peas and Pearl Onions",
+    "calories": "77",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.3g",
+      "carbs": "13.1g",
+      "saturated_fat": "0.1g",
+      "fiber": "4.1g",
+      "sugars": "5.4g",
+      "cholesterol": "0mg",
+      "sodium": "538.7mg",
+      "protein": "4.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grilled Brussels Sprouts and Crimini Mushrooms",
+    "calories": "38",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.2g",
+      "carbs": "5.6g",
+      "saturated_fat": "0.1g",
+      "fiber": "2.1g",
+      "sugars": "1g",
+      "cholesterol": "0mg",
+      "sodium": "59.8mg",
+      "protein": "2.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Parsley Buttered New Potatoes",
+    "calories": "98",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "4.1g",
+      "carbs": "13.6g",
+      "saturated_fat": "2.6g",
+      "fiber": "1.5g",
+      "sugars": "0.9g",
+      "cholesterol": "10.9mg",
+      "sodium": "5.6mg",
+      "protein": "1.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Roasted Corn Cherry Tomatoes and Mozzarella Cheese",
+    "calories": "101",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "4.4g",
+      "carbs": "12.3g",
+      "saturated_fat": "1.5g",
+      "fiber": "0.9g",
+      "sugars": "3.2g",
+      "cholesterol": "6.1mg",
+      "sodium": "99.4mg",
+      "protein": "5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Butternut Squash Spinach Risotto",
+    "calories": "107",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "5.7g",
+      "carbs": "12.1g",
+      "saturated_fat": "1.7g",
+      "fiber": "1.8g",
+      "sugars": "1.4g",
+      "cholesterol": "7.6mg",
+      "sodium": "365.6mg",
+      "protein": "4.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Herb Dijon Crusted Wild Blue Catfish",
+    "calories": "278",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "egg",
+      "fish",
+      "gluten"
+    ],
+    "nutrition": {
+      "total_fat": "15.5g",
+      "carbs": "15.3g",
+      "saturated_fat": "1.1g",
+      "fiber": "0.6g",
+      "sugars": "1.3g",
+      "cholesterol": "75.5mg",
+      "sodium": "532.7mg",
+      "protein": "15.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Malaysian Beef Rendang",
+    "calories": "231",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "12.7g",
+      "carbs": "12.1g",
+      "saturated_fat": "9.8g",
+      "fiber": "2.2g",
+      "sugars": "7.3g",
+      "cholesterol": "26.6mg",
+      "sodium": "104.2mg",
+      "protein": "11g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Bahji Mushrooms",
+    "calories": "38",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.6g",
+      "carbs": "3g",
+      "saturated_fat": "0.1g",
+      "fiber": "1g",
+      "sugars": "1.2g",
+      "cholesterol": "0mg",
+      "sodium": "139.9mg",
+      "protein": "2.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Caesar Salad",
+    "calories": "95",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "fish",
+      "gluten"
+    ],
+    "nutrition": {
+      "total_fat": "6.1g",
+      "carbs": "8.3g",
+      "saturated_fat": "1.2g",
+      "fiber": "1.7g",
+      "sugars": "0.9g",
+      "cholesterol": "5.5mg",
+      "sodium": "215.1mg",
+      "protein": "2.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cajun Roasted Potatoes",
+    "calories": "77",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.9g",
+      "carbs": "14.9g",
+      "saturated_fat": "0.1g",
+      "fiber": "1.1g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "64.2mg",
+      "protein": "1.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chipotle Basil Cous Cous",
+    "calories": "37",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "gluten",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.6g",
+      "carbs": "6.6g",
+      "saturated_fat": "0g",
+      "fiber": "0.5g",
+      "sugars": "0.1g",
+      "cholesterol": "0mg",
+      "sodium": "50.3mg",
+      "protein": "1.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Garlic & Onion Roasted Rutabaga",
+    "calories": "6",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 OZ",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "1.3g",
+      "saturated_fat": "0g",
+      "fiber": "0.2g",
+      "sugars": "0.6g",
+      "cholesterol": "0mg",
+      "sodium": "5.1mg",
+      "protein": "0.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Lime Red Onion Lentils",
+    "calories": "117",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.4g",
+      "carbs": "20.5g",
+      "saturated_fat": "0g",
+      "fiber": "10g",
+      "sugars": "1.3g",
+      "cholesterol": "0mg",
+      "sodium": "57.6mg",
+      "protein": "8.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Peas and Caramelized Red Onions",
+    "calories": "59",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.4g",
+      "carbs": "10.3g",
+      "saturated_fat": "0g",
+      "fiber": "3.1g",
+      "sugars": "3.8g",
+      "cholesterol": "0mg",
+      "sodium": "1.2mg",
+      "protein": "3.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Roasted Garlic Green Beans and Red Onions",
+    "calories": "34",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.8g",
+      "carbs": "6.6g",
+      "saturated_fat": "0.1g",
+      "fiber": "1.9g",
+      "sugars": "1.7g",
+      "cholesterol": "0mg",
+      "sodium": "4.9mg",
+      "protein": "1.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Roasted Penne Primavera",
+    "calories": "115",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "egg",
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.5g",
+      "carbs": "20.2g",
+      "saturated_fat": "0.1g",
+      "fiber": "1.9g",
+      "sugars": "3.2g",
+      "cholesterol": "0mg",
+      "sodium": "99.2mg",
+      "protein": "3.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Saffron Basmati Rice",
+    "calories": "101",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.5g",
+      "carbs": "21.9g",
+      "saturated_fat": "0g",
+      "fiber": "0.3g",
+      "sugars": "0.1g",
+      "cholesterol": "0mg",
+      "sodium": "14.4mg",
+      "protein": "2.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Semolina Pasta Cooked",
+    "calories": "142",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "egg",
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.1g",
+      "carbs": "26.9g",
+      "saturated_fat": "0.1g",
+      "fiber": "1.3g",
+      "sugars": "1.4g",
+      "cholesterol": "0mg",
+      "sodium": "1.5mg",
+      "protein": "4.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Southwestern Pesto Alfredo",
+    "calories": "58",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "5.1g",
+      "carbs": "2.1g",
+      "saturated_fat": "2.6g",
+      "fiber": "0.1g",
+      "sugars": "0.7g",
+      "cholesterol": "12.7mg",
+      "sodium": "116.1mg",
+      "protein": "1.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Whole Wheat Pasta (Cooked)",
+    "calories": "293",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "egg",
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "5.6g",
+      "carbs": "56.9g",
+      "saturated_fat": "0.3g",
+      "fiber": "8.8g",
+      "sugars": "2.9g",
+      "cholesterol": "0mg",
+      "sodium": "1.5mg",
+      "protein": "11.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pan Cheese Pizza",
+    "calories": "172",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 slice",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "9.4g",
+      "carbs": "13.4g",
+      "saturated_fat": "4.4g",
+      "fiber": "0.7g",
+      "sugars": "1.3g",
+      "cholesterol": "19.2mg",
+      "sodium": "335.9mg",
+      "protein": "12.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pan Chicken Carbonara Pizza",
+    "calories": "476",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 slice",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "35.2g",
+      "carbs": "22.7g",
+      "saturated_fat": "19.7g",
+      "fiber": "0.5g",
+      "sugars": "3.5g",
+      "cholesterol": "113.3mg",
+      "sodium": "1121.4mg",
+      "protein": "25.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pan Corn Beef Rueben Pizza",
+    "calories": "227",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 slice",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "13.1g",
+      "carbs": "14.5g",
+      "saturated_fat": "5.3g",
+      "fiber": "1g",
+      "sugars": "2g",
+      "cholesterol": "34.4mg",
+      "sodium": "734mg",
+      "protein": "16.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pan Italian Sausage Pizza",
+    "calories": "194",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 slice",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "11.5g",
+      "carbs": "13.4g",
+      "saturated_fat": "5.4g",
+      "fiber": "0.7g",
+      "sugars": "1.3g",
+      "cholesterol": "24.8mg",
+      "sodium": "410.2mg",
+      "protein": "12.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pan Pepperoni Pizza",
+    "calories": "303",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 slice",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "18.3g",
+      "carbs": "20g",
+      "saturated_fat": "8.5g",
+      "fiber": "1.1g",
+      "sugars": "1.9g",
+      "cholesterol": "39.9mg",
+      "sodium": "652.4mg",
+      "protein": "19.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pan Vegetable Pizza",
+    "calories": "176",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 slice",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "9.4g",
+      "carbs": "14.1g",
+      "saturated_fat": "4.4g",
+      "fiber": "0.9g",
+      "sugars": "1.5g",
+      "cholesterol": "19.2mg",
+      "sodium": "336.9mg",
+      "protein": "12.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Artichoke Hearts",
+    "calories": "19",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "4.4g",
+      "saturated_fat": "0g",
+      "fiber": "3.2g",
+      "sugars": "0.4g",
+      "cholesterol": "0mg",
+      "sodium": "22mg",
+      "protein": "1.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Baba Ghanoush",
+    "calories": "223",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "24.3g",
+      "carbs": "2g",
+      "saturated_fat": "5.1g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "20.3mg",
+      "sodium": "364.5mg",
+      "protein": "2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Balsamic Dressing",
+    "calories": "57",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "4.7g",
+      "carbs": "3.8g",
+      "saturated_fat": "0.5g",
+      "fiber": "0g",
+      "sugars": "3.8g",
+      "cholesterol": "0mg",
+      "sodium": "179.5mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Balsamic Vinegar",
+    "calories": "25",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "4.8g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "4.2g",
+      "cholesterol": "0mg",
+      "sodium": "6.5mg",
+      "protein": "0.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Beets",
+    "calories": "14",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "3.4g",
+      "saturated_fat": null,
+      "fiber": "0.5g",
+      "sugars": null,
+      "cholesterol": null,
+      "sodium": null,
+      "protein": "0.2g",
+      "trans_fat": null
+    },
+    "scraped": true
+  },
+  {
+    "name": "Black Beans",
+    "calories": "28",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "3.8g",
+      "saturated_fat": "0g",
+      "fiber": "1.2g",
+      "sugars": "0.2g",
+      "cholesterol": "0mg",
+      "sodium": "85.1mg",
+      "protein": "1.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Blue Cheese Dressing",
+    "calories": "151",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "16.1g",
+      "carbs": "0.9g",
+      "saturated_fat": "3.3g",
+      "fiber": "0g",
+      "sugars": "0.9g",
+      "cholesterol": "14.2mg",
+      "sodium": "236.2mg",
+      "protein": "0.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Broccoli",
+    "calories": "9",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "1.5g",
+      "saturated_fat": "0g",
+      "fiber": "0.6g",
+      "sugars": "0.4g",
+      "cholesterol": "0mg",
+      "sodium": "15.3mg",
+      "protein": "0.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Caesar Dressing",
+    "calories": "120",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "fish"
+    ],
+    "nutrition": {
+      "total_fat": "13g",
+      "carbs": "1g",
+      "saturated_fat": "2g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "10mg",
+      "sodium": "320mg",
+      "protein": "1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Celery Sticks",
+    "calories": "4",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0g",
+      "saturated_fat": "0g",
+      "fiber": "0.5g",
+      "sugars": "0.5g",
+      "cholesterol": "0mg",
+      "sodium": "29.6mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chipotle Hummus",
+    "calories": "74",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "6.2g",
+      "carbs": "4.5g",
+      "saturated_fat": "0g",
+      "fiber": "2.3g",
+      "sugars": "0.1g",
+      "cholesterol": "0mg",
+      "sodium": "153.5mg",
+      "protein": "1.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chopped Kale",
+    "calories": "29",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.6g",
+      "carbs": "5.5g",
+      "saturated_fat": "0.1g",
+      "fiber": "2.2g",
+      "sugars": "1.5g",
+      "cholesterol": "0mg",
+      "sodium": "23.7mg",
+      "protein": "2.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chopped Lettuce",
+    "calories": "7",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "2g",
+      "saturated_fat": "0g",
+      "fiber": "0.7g",
+      "sugars": "1.3g",
+      "cholesterol": "0mg",
+      "sodium": "6.7mg",
+      "protein": "0.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chopped Romaine",
+    "calories": "10",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.2g",
+      "carbs": "1.9g",
+      "saturated_fat": "0g",
+      "fiber": "1.2g",
+      "sugars": "0.7g",
+      "cholesterol": "0mg",
+      "sodium": "4.5mg",
+      "protein": "0.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chow Mein Noodles",
+    "calories": "132",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "gluten",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.1g",
+      "carbs": "18.2g",
+      "saturated_fat": "0.5g",
+      "fiber": "2g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "263.3mg",
+      "protein": "3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Corn Nuts",
+    "calories": null,
+    "servings_per_container": null,
+    "serving_size": null,
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": null,
+      "saturated_fat": null,
+      "trans_fat": null,
+      "cholesterol": null,
+      "sodium": null,
+      "carbs": null,
+      "fiber": null,
+      "sugars": null,
+      "protein": null
+    },
+    "scraped": false
+  },
+  {
+    "name": "Corn",
+    "calories": "32",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.3g",
+      "carbs": "6.6g",
+      "saturated_fat": "0g",
+      "fiber": "0.3g",
+      "sugars": "1.6g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cran Raisin",
+    "calories": "123",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "31.2g",
+      "saturated_fat": "0g",
+      "fiber": "2.8g",
+      "sugars": "27.4g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Crouton",
+    "calories": "61",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2g",
+      "carbs": "10.1g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "162mg",
+      "protein": "2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cucumber",
+    "calories": "2",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0.5g",
+      "saturated_fat": "0g",
+      "fiber": "0.2g",
+      "sugars": "0.2g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Diced Green Pepper",
+    "calories": "5",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "0.9g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Edamame",
+    "calories": "40",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2g",
+      "carbs": "3g",
+      "saturated_fat": "0.2g",
+      "fiber": "1.3g",
+      "sugars": "1g",
+      "cholesterol": "0mg",
+      "sodium": "5mg",
+      "protein": "3.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Eggs",
+    "calories": "96",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "7.2g",
+      "carbs": "1.2g",
+      "saturated_fat": "1.8g",
+      "fiber": "0g",
+      "sugars": "1.2g",
+      "cholesterol": "222.2mg",
+      "sodium": "84.1mg",
+      "protein": "8.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "FF Italian",
+    "calories": "10",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "3g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "2g",
+      "cholesterol": "0mg",
+      "sodium": "490mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Flax Seeds",
+    "calories": "156",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "nuts",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "12.2g",
+      "carbs": "8.5g",
+      "saturated_fat": "1.1g",
+      "fiber": "7.9g",
+      "sugars": "0.6g",
+      "cholesterol": "0mg",
+      "sodium": "8.5mg",
+      "protein": "5.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "French Dressing",
+    "calories": "120",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "11g",
+      "carbs": "5g",
+      "saturated_fat": "1.5g",
+      "fiber": "0g",
+      "sugars": "4g",
+      "cholesterol": "0mg",
+      "sodium": "250mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Garbanzo Beans",
+    "calories": "66",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.1g",
+      "carbs": "11.1g",
+      "saturated_fat": "0g",
+      "fiber": "3.1g",
+      "sugars": "2g",
+      "cholesterol": "0mg",
+      "sodium": "4.4mg",
+      "protein": "3.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Greek Dressing",
+    "calories": "90",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "9g",
+      "carbs": "1g",
+      "saturated_fat": "1.5g",
+      "fiber": "0g",
+      "sugars": "1g",
+      "cholesterol": "0mg",
+      "sodium": "260mg",
+      "protein": "1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Greek Pita Flat Bread",
+    "calories": "247",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.2g",
+      "carbs": "41.1g",
+      "saturated_fat": "1g",
+      "fiber": "2.1g",
+      "sugars": "2.1g",
+      "cholesterol": "0mg",
+      "sodium": "442.1mg",
+      "protein": "8.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Ham Sliced",
+    "calories": "152",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "11.1g",
+      "carbs": "2g",
+      "saturated_fat": "3.5g",
+      "fiber": "0g",
+      "sugars": "1g",
+      "cholesterol": "40.5mg",
+      "sodium": "911.3mg",
+      "protein": "10.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Hummus",
+    "calories": "71",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 OZ",
+    "allergens": [
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "6.1g",
+      "carbs": "4.1g",
+      "saturated_fat": "0g",
+      "fiber": "2g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "121.5mg",
+      "protein": "1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Italian Creamy",
+    "calories": "110",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "10g",
+      "carbs": "6g",
+      "saturated_fat": "1.5g",
+      "fiber": "0g",
+      "sugars": "5g",
+      "cholesterol": "0mg",
+      "sodium": "260mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Lite Caesar Dressing",
+    "calories": "66",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "fish",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "5.7g",
+      "carbs": "2.8g",
+      "saturated_fat": "0.9g",
+      "fiber": "0g",
+      "sugars": "1.9g",
+      "cholesterol": "0mg",
+      "sodium": "529.2mg",
+      "protein": "0.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Lite Ranch Dressing",
+    "calories": "76",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.6g",
+      "carbs": "1.9g",
+      "saturated_fat": "0.9g",
+      "fiber": "0g",
+      "sugars": "0.9g",
+      "cholesterol": "4.7mg",
+      "sodium": "236.2mg",
+      "protein": "0.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Olive Oil",
+    "calories": "251",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "28.3g",
+      "carbs": "0g",
+      "saturated_fat": "3.9g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "0.6mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Parmesan Cheese",
+    "calories": "101",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "7.1g",
+      "carbs": "1g",
+      "saturated_fat": "4.1g",
+      "fiber": "0g",
+      "sugars": "1g",
+      "cholesterol": "20.3mg",
+      "sodium": "435.4mg",
+      "protein": "9.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Parmesan Peppercorn Dressing",
+    "calories": "160",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "16g",
+      "carbs": "2g",
+      "saturated_fat": "3g",
+      "fiber": "0g",
+      "sugars": "1g",
+      "cholesterol": "10mg",
+      "sodium": "290mg",
+      "protein": "1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Peas",
+    "calories": "22",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "3.8g",
+      "saturated_fat": "0g",
+      "fiber": "1.3g",
+      "sugars": "1.3g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "1.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "calories": "152",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "13.2g",
+      "carbs": "3g",
+      "saturated_fat": "2.5g",
+      "fiber": "2g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "1.6mg",
+      "protein": "8.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Raisins",
+    "calories": "85",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.2g",
+      "carbs": "22.7g",
+      "saturated_fat": "0g",
+      "fiber": "1g",
+      "sugars": "16.7g",
+      "cholesterol": "0mg",
+      "sodium": "3mg",
+      "protein": "1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Ranch Dressing",
+    "calories": "140",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "14g",
+      "carbs": "2g",
+      "saturated_fat": "2g",
+      "fiber": "0g",
+      "sugars": "1g",
+      "cholesterol": "10mg",
+      "sodium": "190mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Raspberry Vinaigrette Lite",
+    "calories": "66",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "5.7g",
+      "carbs": "3.8g",
+      "saturated_fat": "0.9g",
+      "fiber": "0g",
+      "sugars": "2.8g",
+      "cholesterol": "0mg",
+      "sodium": "118.1mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Red Pepper",
+    "calories": "8",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "1.9g",
+      "saturated_fat": "0g",
+      "fiber": "0.3g",
+      "sugars": "1.2g",
+      "cholesterol": "0mg",
+      "sodium": "0.6mg",
+      "protein": "0.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Red Wine Vinegar",
+    "calories": "0",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sesame Oriental Dressing",
+    "calories": "90",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "4.5g",
+      "carbs": "12g",
+      "saturated_fat": "0.5g",
+      "fiber": "0g",
+      "sugars": "9g",
+      "cholesterol": "0mg",
+      "sodium": "320mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Shredded Carrots",
+    "calories": "12",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "2.7g",
+      "saturated_fat": "0g",
+      "fiber": "0.8g",
+      "sugars": "1.3g",
+      "cholesterol": "0mg",
+      "sodium": "19.6mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Shredded Cheddar Cheese",
+    "calories": "111",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "9.1g",
+      "carbs": "0g",
+      "saturated_fat": "5.1g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "30.4mg",
+      "sodium": "182.3mg",
+      "protein": "7.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sliced Black Olives",
+    "calories": "26",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.8g",
+      "carbs": "2.8g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "204.1mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sliced Mushroom",
+    "calories": "7",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "1g",
+      "saturated_fat": "0g",
+      "fiber": "0.3g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "5.1mg",
+      "protein": "1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sunflower Seeds",
+    "calories": "172",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "14.2g",
+      "carbs": "7.1g",
+      "saturated_fat": "0g",
+      "fiber": "11.6g",
+      "sugars": "1g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "5.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "TOFU",
+    "calories": "81",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 OZ",
+    "allergens": [
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "4.9g",
+      "carbs": "1.9g",
+      "saturated_fat": "0.6g",
+      "fiber": "0.6g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "3.1mg",
+      "protein": "9.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Thousand Island Dressing",
+    "calories": "140",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "13g",
+      "carbs": "4g",
+      "saturated_fat": "2g",
+      "fiber": "0g",
+      "sugars": "3g",
+      "cholesterol": "15mg",
+      "sodium": "260mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Tomato Wedges",
+    "calories": "0",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "2.3mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Turkey Sliced",
+    "calories": "76",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "smartchoice"
+    ],
+    "nutrition": {
+      "total_fat": "1.5g",
+      "carbs": "1.5g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "30.4mg",
+      "sodium": "683.4mg",
+      "protein": "13.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Watermelon",
+    "calories": "50",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 each",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "13.6g",
+      "saturated_fat": "0g",
+      "fiber": "1g",
+      "sugars": "12.6g",
+      "cholesterol": "0mg",
+      "sodium": "5mg",
+      "protein": "0.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Yogurt",
+    "calories": "52",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.5g",
+      "carbs": "9.8g",
+      "saturated_fat": "0.4g",
+      "fiber": "0g",
+      "sugars": "8g",
+      "cholesterol": "2.6mg",
+      "sodium": "36.1mg",
+      "protein": "2.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Apple",
+    "calories": "74",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "19.4g",
+      "saturated_fat": "0g",
+      "fiber": "2.9g",
+      "sugars": "14.3g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Banana",
+    "calories": "110",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.4g",
+      "carbs": "28.2g",
+      "saturated_fat": "0.1g",
+      "fiber": "3.2g",
+      "sugars": "15.1g",
+      "cholesterol": "0mg",
+      "sodium": "1.2mg",
+      "protein": "1.3g",
+      "trans_fat": null
+    },
+    "scraped": true
+  },
+  {
+    "name": "Caramel Sauce",
+    "calories": "105",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.8g",
+      "carbs": "24.1g",
+      "saturated_fat": "0.4g",
+      "fiber": "0g",
+      "sugars": "10.5g",
+      "cholesterol": "3.8mg",
+      "sodium": "37.6mg",
+      "protein": "0.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Cherry Sorbet Soft Serve",
+    "calories": "27",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "6.4g",
+      "saturated_fat": "0.1g",
+      "fiber": "0g",
+      "sugars": "5.9g",
+      "cholesterol": "0mg",
+      "sodium": "1.7mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chocolate Chip Cookie",
+    "calories": "188",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "8.9g",
+      "carbs": "25.7g",
+      "saturated_fat": "4g",
+      "fiber": "0g",
+      "sugars": "15.8g",
+      "cholesterol": "14.8mg",
+      "sodium": "257.1mg",
+      "protein": "2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chocolate Soft Serve Ice Cream",
+    "calories": "35",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.7g",
+      "carbs": "7g",
+      "saturated_fat": "0.7g",
+      "fiber": "0.3g",
+      "sugars": "7g",
+      "cholesterol": "0mg",
+      "sodium": "29.7mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Dole Mango Sorbet Soft Serve",
+    "calories": "41",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.4g",
+      "carbs": "6.8g",
+      "saturated_fat": "0g",
+      "fiber": "1g",
+      "sugars": "2.4g",
+      "cholesterol": "0mg",
+      "sodium": "113.1mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Dole Pinapple Sorbet Soft Serve",
+    "calories": "27",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "6.3g",
+      "saturated_fat": "0.1g",
+      "fiber": "0g",
+      "sugars": "6.1g",
+      "cholesterol": "0mg",
+      "sodium": "4.1mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Dole Raspberry Sorbet Soft Serve",
+    "calories": "27",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "6.4g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "6.1g",
+      "cholesterol": "0mg",
+      "sodium": "3.4mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Hot Fudge Sauce",
+    "calories": "92",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "dairy",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "3.1g",
+      "carbs": "15.3g",
+      "saturated_fat": "2.3g",
+      "fiber": "0.8g",
+      "sugars": "10g",
+      "cholesterol": "0mg",
+      "sodium": "61.3mg",
+      "protein": "0.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "M&M Candy Cookie",
+    "calories": "195",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "9g",
+      "carbs": "27g",
+      "saturated_fat": "3g",
+      "fiber": "0.8g",
+      "sugars": "16.5g",
+      "cholesterol": "4.5mg",
+      "sodium": "112.5mg",
+      "protein": "1.5g",
+      "trans_fat": null
+    },
+    "scraped": true
+  },
+  {
+    "name": "Oatmeal Raisin Cookie",
+    "calories": "178",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.9g",
+      "carbs": "25.7g",
+      "saturated_fat": "3g",
+      "fiber": "1g",
+      "sugars": "13.8g",
+      "cholesterol": "14.8mg",
+      "sodium": "98.9mg",
+      "protein": "3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Orange",
+    "calories": "104",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "24.7g",
+      "saturated_fat": "0g",
+      "fiber": "3.9g",
+      "sugars": "18.2g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "1.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Salted Caramel Soft Serve Ice Cream",
+    "calories": "34",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1g",
+      "carbs": "0g",
+      "saturated_fat": "0.9g",
+      "fiber": "0g",
+      "sugars": "5.2g",
+      "cholesterol": "0mg",
+      "sodium": "70.4mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sugar Cookie",
+    "calories": "180",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 EACH",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "8g",
+      "carbs": "26g",
+      "saturated_fat": "13g",
+      "fiber": "0g",
+      "sugars": "13g",
+      "cholesterol": "20mg",
+      "sodium": "240.1mg",
+      "protein": "2g",
+      "trans_fat": "1.5g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vanilla Soft Serve Ice Cream",
+    "calories": "93",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "3.2g",
+      "carbs": "14.4g",
+      "saturated_fat": "2.2g",
+      "fiber": "0g",
+      "sugars": "10.1g",
+      "cholesterol": "14.4mg",
+      "sodium": "43.1mg",
+      "protein": "1.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Warm Brownie Cheesecake",
+    "calories": "220",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "7g",
+      "carbs": "27.5g",
+      "saturated_fat": "2.6g",
+      "fiber": "1.1g",
+      "sugars": "1.7g",
+      "cholesterol": "25.4mg",
+      "sodium": "122.2mg",
+      "protein": "3.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Warm Brownie",
+    "calories": "236",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.6g",
+      "carbs": "31.3g",
+      "saturated_fat": "2.1g",
+      "fiber": "1.3g",
+      "sugars": "2g",
+      "cholesterol": "19.6mg",
+      "sodium": "123.4mg",
+      "protein": "2.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "White Chocolate Macadamia Nut Cookie",
+    "calories": "200",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "11g",
+      "carbs": "24g",
+      "saturated_fat": "3g",
+      "fiber": "0g",
+      "sugars": "15g",
+      "cholesterol": "10mg",
+      "sodium": "150mg",
+      "protein": "2g",
+      "trans_fat": "2g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "10 Vegetable Soup",
+    "calories": "101",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "6 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.7g",
+      "carbs": "23g",
+      "saturated_fat": "0g",
+      "fiber": "4.3g",
+      "sugars": "11.5g",
+      "cholesterol": "0mg",
+      "sodium": "1310.4mg",
+      "protein": "1.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Beef Chili with Beans",
+    "calories": "233",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "6 oz",
+    "allergens": [
+      "dairy"
+    ],
+    "nutrition": {
+      "total_fat": "11.3g",
+      "carbs": "19g",
+      "saturated_fat": "4.2g",
+      "fiber": "4.9g",
+      "sugars": "5.6g",
+      "cholesterol": "35.3mg",
+      "sodium": "712.4mg",
+      "protein": "14.1g",
+      "trans_fat": "0.7g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Loaded Baked Potato Soup",
+    "calories": "202",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "6 oz",
+    "allergens": [
+      "dairy",
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "10.1g",
+      "carbs": "24g",
+      "saturated_fat": "3.8g",
+      "fiber": "2.5g",
+      "sugars": "5g",
+      "cholesterol": "12.6mg",
+      "sodium": "1046.9mg",
+      "protein": "3.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Tomato Florentine Soup",
+    "calories": "115",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "6 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.7g",
+      "carbs": "24.5g",
+      "saturated_fat": "0g",
+      "fiber": "1.4g",
+      "sugars": "10.1g",
+      "cholesterol": "0mg",
+      "sodium": "1123.2mg",
+      "protein": "4.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Buffalo Chicken Cheddar Wrap w/ Ranch, Lettuce & Tomato",
+    "calories": "580",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 ea",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "nutrition": {
+      "total_fat": "28.7g",
+      "carbs": "46.7g",
+      "saturated_fat": "7.8g",
+      "fiber": "4.1g",
+      "sugars": "6.8g",
+      "cholesterol": "62.7mg",
+      "sodium": "1684.2mg",
+      "protein": "33.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Three Cheese Cucumber Tomato Sourdough Bread Sandwich",
+    "calories": "557",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "25.7g",
+      "carbs": "51.5g",
+      "saturated_fat": "14.5g",
+      "fiber": "3g",
+      "sugars": "2.8g",
+      "cholesterol": "79.3mg",
+      "sodium": "1043.2mg",
+      "protein": "30.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Carrot Sticks",
+    "calories": "12",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "2.7g",
+      "saturated_fat": "0g",
+      "fiber": "0.7g",
+      "sugars": "1.7g",
+      "cholesterol": "0mg",
+      "sodium": "21.7mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chicken Salad",
+    "calories": "194",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "total_fat": "16.2g",
+      "carbs": "6.5g",
+      "saturated_fat": "2.8g",
+      "fiber": "0.8g",
+      "sugars": "3.2g",
+      "cholesterol": "40.5mg",
+      "sodium": "469.8mg",
+      "protein": "7.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chipotle Mayonnaise",
+    "calories": "182",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "20.3g",
+      "carbs": "2g",
+      "saturated_fat": "3g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "10.1mg",
+      "sodium": "273.4mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Deli Wheat Bread Sliced",
+    "calories": "232",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 slices",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "3.5g",
+      "carbs": "41.7g",
+      "saturated_fat": "0g",
+      "fiber": "4.6g",
+      "sugars": "4.6g",
+      "cholesterol": "0mg",
+      "sodium": "417.2mg",
+      "protein": "9.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Jalapenos",
+    "calories": "0",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0.1g",
+      "saturated_fat": "0g",
+      "fiber": "0.1g",
+      "sugars": "0g",
+      "cholesterol": "0.7mg",
+      "sodium": "9.4mg",
+      "protein": "0.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Leaf Lettuce",
+    "calories": "17",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1/4 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.2g",
+      "carbs": "3.2g",
+      "saturated_fat": "0g",
+      "fiber": "1.5g",
+      "sugars": "0.9g",
+      "cholesterol": "0mg",
+      "sodium": "31.8mg",
+      "protein": "1.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Mayonnaise",
+    "calories": "38",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1/2 oz",
+    "allergens": [
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "3.8g",
+      "carbs": "0.9g",
+      "saturated_fat": "0.5g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "9.5mg",
+      "sodium": "89.8mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pepperoni Sliced",
+    "calories": "1",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "0g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0.1mg",
+      "sodium": "1.9mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pickle Slice",
+    "calories": "5",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "1g",
+      "saturated_fat": "0g",
+      "fiber": null,
+      "sugars": null,
+      "cholesterol": "0mg",
+      "sodium": "335.6mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Plain Tortilla 12\"",
+    "calories": "313",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "gluten",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "8.1g",
+      "carbs": "52.5g",
+      "saturated_fat": "2.5g",
+      "fiber": "5g",
+      "sugars": "1g",
+      "cholesterol": "0mg",
+      "sodium": "676.4mg",
+      "protein": "9.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Potato Chips",
+    "calories": "324",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "20.3g",
+      "carbs": "30.4g",
+      "saturated_fat": "3g",
+      "fiber": "2g",
+      "sugars": "2g",
+      "cholesterol": "0mg",
+      "sodium": "344.3mg",
+      "protein": "4.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Provolone Cheese Sliced",
+    "calories": "76",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.1g",
+      "carbs": "0g",
+      "saturated_fat": "3g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "15.2mg",
+      "sodium": "182.3mg",
+      "protein": "5.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Pullman White Bread Sliced",
+    "calories": "213",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 slices",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.1g",
+      "carbs": "40.5g",
+      "saturated_fat": "0g",
+      "fiber": "2.1g",
+      "sugars": "2.1g",
+      "cholesterol": "0mg",
+      "sodium": "447.3mg",
+      "protein": "6.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Rye Bread",
+    "calories": "235",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 slices",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "3g",
+      "carbs": "43.8g",
+      "saturated_fat": "0.6g",
+      "fiber": "5.3g",
+      "sugars": "3.5g",
+      "cholesterol": "0mg",
+      "sodium": "598.3mg",
+      "protein": "7.7g",
+      "trans_fat": null
+    },
+    "scraped": true
+  },
+  {
+    "name": "Salami Sliced",
+    "calories": "111",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "10.1g",
+      "carbs": "0g",
+      "saturated_fat": "4.1g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "25.3mg",
+      "sodium": "465.8mg",
+      "protein": "6.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sourdough Bread",
+    "calories": "227",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 slices",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "48.6g",
+      "saturated_fat": "0g",
+      "fiber": "1.6g",
+      "sugars": "1.6g",
+      "cholesterol": "0mg",
+      "sodium": "550.4mg",
+      "protein": "8.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Spinach Tortilla 12\"",
+    "calories": "298",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "gluten",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.7g",
+      "carbs": "49g",
+      "saturated_fat": "2.9g",
+      "fiber": "1.9g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "711.5mg",
+      "protein": "8.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Swiss Cheese Sliced",
+    "calories": "51",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "4.1g",
+      "carbs": "0.5g",
+      "saturated_fat": "2.5g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "12.7mg",
+      "sodium": "30.4mg",
+      "protein": "4.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Tomato Tortilla 12\"",
+    "calories": "299",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "gluten",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "7.1g",
+      "carbs": "49.4g",
+      "saturated_fat": "1.2g",
+      "fiber": "2.4g",
+      "sugars": "3.5g",
+      "cholesterol": "0mg",
+      "sodium": "678.4mg",
+      "protein": "8.2g",
+      "trans_fat": null
+    },
+    "scraped": true
+  },
+  {
+    "name": "Tuna Salad",
+    "calories": "255",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "egg",
+      "fish"
+    ],
+    "nutrition": {
+      "total_fat": "23g",
+      "carbs": "4.3g",
+      "saturated_fat": "3g",
+      "fiber": "1.7g",
+      "sugars": "0.9g",
+      "cholesterol": "8.5mg",
+      "sodium": "620.9mg",
+      "protein": "7.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Wheat Tortilla 12\"",
+    "calories": "279",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "gluten",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.7g",
+      "carbs": "48.1g",
+      "saturated_fat": "3.4g",
+      "fiber": "5.8g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "721.2mg",
+      "protein": "8.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Yellow Mustard",
+    "calories": "14",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1/2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "170.1mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Black Bean Chunky Tomato Smoked Pork (purple)",
+    "calories": "284",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "24.2g",
+      "carbs": "0.9g",
+      "saturated_fat": "8.3g",
+      "fiber": "0.3g",
+      "sugars": "0.1g",
+      "cholesterol": "69.3mg",
+      "sodium": "80.3mg",
+      "protein": "14.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chicken Satay",
+    "calories": "136",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "halalfriendly"
+    ],
+    "nutrition": {
+      "total_fat": "4.4g",
+      "carbs": "4.1g",
+      "saturated_fat": "0.9g",
+      "fiber": "0.2g",
+      "sugars": "2.9g",
+      "cholesterol": "94.5mg",
+      "sodium": "207.2mg",
+      "protein": "19.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Annie's Balsamic Vinaigrette (purple)",
+    "calories": "24",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.4g",
+      "carbs": "0.5g",
+      "saturated_fat": "0.2g",
+      "fiber": "0g",
+      "sugars": "0.2g",
+      "cholesterol": "0mg",
+      "sodium": "14.7mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Annie's French Dressing (purple)",
+    "calories": "21",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.1g",
+      "carbs": "0.7g",
+      "saturated_fat": "0.1g",
+      "fiber": "0g",
+      "sugars": "0.7g",
+      "cholesterol": "0mg",
+      "sodium": "38.9mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Annie's Lite Raspberry Vinaigrette (purple)",
+    "calories": "26",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.6g",
+      "carbs": "0.7g",
+      "saturated_fat": "0.2g",
+      "fiber": "0g",
+      "sugars": "0.5g",
+      "cholesterol": "0mg",
+      "sodium": "52mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Coconut Jasmine Rice",
+    "calories": "151",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.5g",
+      "carbs": "33g",
+      "saturated_fat": "0g",
+      "fiber": "0.5g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "254.8mg",
+      "protein": "2.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Millet & Chia Burger Buns",
+    "calories": "1055",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 EACH",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "49g",
+      "carbs": "139.5g",
+      "saturated_fat": "3.8g",
+      "fiber": "18.8g",
+      "sugars": "3.8g",
+      "cholesterol": "0mg",
+      "sodium": "1055.3mg",
+      "protein": "7.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Mixed Greens",
+    "calories": "30",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 OZ",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0g",
+      "saturated_fat": "0g",
+      "fiber": "2g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Puttanesca Sauce",
+    "calories": "35",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "3.1g",
+      "carbs": "1.6g",
+      "saturated_fat": "0.1g",
+      "fiber": "0.2g",
+      "sugars": "0.4g",
+      "cholesterol": "0mg",
+      "sodium": "157mg",
+      "protein": "0.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Red Lentil Penne Pasta",
+    "calories": "170",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "5.3g",
+      "carbs": "25.1g",
+      "saturated_fat": "0.3g",
+      "fiber": "4.4g",
+      "sugars": "0.7g",
+      "cholesterol": "0mg",
+      "sodium": "204.8mg",
+      "protein": "9.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Satay Sauce",
+    "calories": "33",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "8.5g",
+      "saturated_fat": "0g",
+      "fiber": "0.3g",
+      "sugars": "7.9g",
+      "cholesterol": "0mg",
+      "sodium": "1.2mg",
+      "protein": "0.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sliced Roma Tomatoes",
+    "calories": "5",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "1.1g",
+      "saturated_fat": "0g",
+      "fiber": "0.3g",
+      "sugars": "0.8g",
+      "cholesterol": "0mg",
+      "sodium": "1.4mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sliced White Bread",
+    "calories": "155",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 EACH",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "3.6g",
+      "carbs": "32.8g",
+      "saturated_fat": "0g",
+      "fiber": "3.6g",
+      "sugars": "4.6g",
+      "cholesterol": "0mg",
+      "sodium": "2mg",
+      "protein": "0.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Snap Peas & Carrots",
+    "calories": "66",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "3.9g",
+      "carbs": "6.6g",
+      "saturated_fat": "0.3g",
+      "fiber": "2g",
+      "sugars": "3.8g",
+      "cholesterol": "0mg",
+      "sodium": "132.5mg",
+      "protein": "1.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Spinach",
+    "calories": "13",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.2g",
+      "carbs": "2.1g",
+      "saturated_fat": "0g",
+      "fiber": "1.2g",
+      "sugars": "0.2g",
+      "cholesterol": "0mg",
+      "sodium": "44.8mg",
+      "protein": "1.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sweet Chili Ginger Broccoli",
+    "calories": "67",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.8g",
+      "carbs": "11.5g",
+      "saturated_fat": "0.2g",
+      "fiber": "2.4g",
+      "sugars": "4.7g",
+      "cholesterol": "0mg",
+      "sodium": "193.1mg",
+      "protein": "2.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan American Cheese",
+    "calories": "60",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "4.5g",
+      "carbs": "4g",
+      "saturated_fat": "4g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "178.6mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Feta Cheese",
+    "calories": null,
+    "servings_per_container": null,
+    "serving_size": null,
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": null,
+      "saturated_fat": null,
+      "trans_fat": null,
+      "cholesterol": null,
+      "sodium": null,
+      "carbs": null,
+      "fiber": null,
+      "sugars": null,
+      "protein": null
+    },
+    "scraped": false
+  },
+  {
+    "name": "Vegan Parmesan Cheese (purple)",
+    "calories": "101",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "7.1g",
+      "carbs": "8.1g",
+      "saturated_fat": "3.5g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "465.8mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Shredded Cheddar Cheese",
+    "calories": "81",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.1g",
+      "carbs": "6.1g",
+      "saturated_fat": "3.5g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "293.6mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Shredded Pepper Jack Cheese",
+    "calories": "85",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.4g",
+      "carbs": "5.7g",
+      "saturated_fat": "5.7g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "255.2mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Sliced Gouda Cheese",
+    "calories": "85",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 slice",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.4g",
+      "carbs": "5.7g",
+      "saturated_fat": "5.7g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "255.2mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Sliced Provolone Cheese",
+    "calories": "60",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 slice",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "4.5g",
+      "carbs": "4g",
+      "saturated_fat": "4g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "178.6mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Soy Free Mayonnaise (purple)",
+    "calories": "324",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "36.5g",
+      "carbs": "0g",
+      "saturated_fat": "2g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "303.8mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Breaded Chicken Cutlet",
+    "calories": "259",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "12.2g",
+      "carbs": "21.4g",
+      "saturated_fat": "0g",
+      "fiber": "3.1g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "473.1mg",
+      "protein": "19.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Ginger Glazed Tofu",
+    "calories": "180",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "8.6g",
+      "carbs": "14.6g",
+      "saturated_fat": "1.2g",
+      "fiber": "1.6g",
+      "sugars": "6.7g",
+      "cholesterol": "0mg",
+      "sodium": "329.6mg",
+      "protein": "14.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Garlic Chili Chicken with Broccoli",
+    "calories": "93",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "gluten",
+      "smartchoice",
+      "soy",
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "1.6g",
+      "carbs": "6g",
+      "saturated_fat": "0.1g",
+      "fiber": "1.7g",
+      "sugars": "2.4g",
+      "cholesterol": "0mg",
+      "sodium": "156.1mg",
+      "protein": "14.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Basil & Pepper Gourmet Beans",
+    "calories": "113",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "3.3g",
+      "carbs": "15.1g",
+      "saturated_fat": "0.2g",
+      "fiber": "4.6g",
+      "sugars": "1.4g",
+      "cholesterol": "0mg",
+      "sodium": "40.4mg",
+      "protein": "5.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Bean Sprouts",
+    "calories": "2",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0.3g",
+      "saturated_fat": "0g",
+      "fiber": "0.2g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "0.6mg",
+      "protein": "0.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Brown Rice",
+    "calories": "134",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1g",
+      "carbs": "28.3g",
+      "saturated_fat": "0g",
+      "fiber": "1.3g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "3mg",
+      "protein": "2.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Diced Green Peppers",
+    "calories": "5",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "0.9g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Red Beans",
+    "calories": "50",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 OZ",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.3g",
+      "carbs": "8g",
+      "saturated_fat": "0g",
+      "fiber": "2.5g",
+      "sugars": "0.5g",
+      "cholesterol": "0mg",
+      "sodium": "135.1mg",
+      "protein": "3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Roasted Carrots Yellow Squash and Red Onion",
+    "calories": "28",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.2g",
+      "carbs": "5.7g",
+      "saturated_fat": "0g",
+      "fiber": "1.5g",
+      "sugars": "3.2g",
+      "cholesterol": "0mg",
+      "sodium": "61.4mg",
+      "protein": "1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Roasted Corn, Black Beans and Tomatoes",
+    "calories": "72",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.5g",
+      "carbs": "12.4g",
+      "saturated_fat": "0.1g",
+      "fiber": "2g",
+      "sugars": "2.6g",
+      "cholesterol": "0mg",
+      "sodium": "95.7mg",
+      "protein": "2.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Roasted Sweet Potatoes with Peppers",
+    "calories": "82",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "smartchoice",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.4g",
+      "carbs": "18.7g",
+      "saturated_fat": "0.1g",
+      "fiber": "2.6g",
+      "sugars": "6.2g",
+      "cholesterol": "0mg",
+      "sodium": "27.3mg",
+      "protein": "1.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sliced Jalapeno Peppers",
+    "calories": "4",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0.8g",
+      "saturated_fat": "0g",
+      "fiber": "0.8g",
+      "sugars": "0g",
+      "cholesterol": "7.6mg",
+      "sodium": "105.8mg",
+      "protein": "0.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sticky Rice",
+    "calories": "113",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.2g",
+      "carbs": "24.8g",
+      "saturated_fat": "0g",
+      "fiber": "0.4g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "1.6mg",
+      "protein": "2.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Tempura Mushrooms",
+    "calories": "95",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "gluten",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "18.4g",
+      "saturated_fat": "0.1g",
+      "fiber": "0.8g",
+      "sugars": "0.4g",
+      "cholesterol": "0mg",
+      "sodium": "11.3mg",
+      "protein": "3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Tomatoes Diced",
+    "calories": "2",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0.4g",
+      "saturated_fat": null,
+      "fiber": "0.1g",
+      "sugars": "0.2g",
+      "cholesterol": null,
+      "sodium": null,
+      "protein": "0.1g",
+      "trans_fat": null
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Chipotle Mayonnaise",
+    "calories": "96",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "11.5g",
+      "carbs": "2g",
+      "saturated_fat": "0g",
+      "fiber": "0.1g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "169.5mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Edamame Hummus",
+    "calories": "135",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "2 oz",
+    "allergens": [
+      "soy",
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "11.2g",
+      "carbs": "6.9g",
+      "saturated_fat": "0.4g",
+      "fiber": "3.2g",
+      "sugars": "0.8g",
+      "cholesterol": "0mg",
+      "sodium": "148.7mg",
+      "protein": "4.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Mayonnaise",
+    "calories": "101",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "12.2g",
+      "carbs": "2g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "172.1mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Cheesecake New York",
+    "calories": "43",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "4.3g",
+      "carbs": "4.3g",
+      "saturated_fat": "2g",
+      "fiber": "1g",
+      "sugars": "2.1g",
+      "cholesterol": "0mg",
+      "sodium": "0mg",
+      "protein": "0.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Chocolate Cheesecake",
+    "calories": null,
+    "servings_per_container": null,
+    "serving_size": null,
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": null,
+      "saturated_fat": null,
+      "trans_fat": null,
+      "cholesterol": null,
+      "sodium": null,
+      "carbs": null,
+      "fiber": null,
+      "sugars": null,
+      "protein": null
+    },
+    "scraped": false
+  },
+  {
+    "name": "Vegan Key Lime Cheesecake",
+    "calories": "179",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "11.9g",
+      "carbs": "17.9g",
+      "saturated_fat": "8.2g",
+      "fiber": "1.5g",
+      "sugars": "8.6g",
+      "cholesterol": "0mg",
+      "sodium": "1.5mg",
+      "protein": "1.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Strawberry Cheesecake",
+    "calories": "179",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "11.6g",
+      "carbs": "17.9g",
+      "saturated_fat": "8.2g",
+      "fiber": "1.5g",
+      "sugars": "8.6g",
+      "cholesterol": "0mg",
+      "sodium": "1.5mg",
+      "protein": "1.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Asian Garlic Noodles",
+    "calories": "376",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "shellfish",
+      "dairy",
+      "fish",
+      "gluten",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "13.6g",
+      "carbs": "54.1g",
+      "saturated_fat": "8.3g",
+      "fiber": "1.5g",
+      "sugars": "8.9g",
+      "cholesterol": "35.5mg",
+      "sodium": "567mg",
+      "protein": "8.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Blistered Shishito Pepperes",
+    "calories": "24",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "1.8g",
+      "carbs": "1.4g",
+      "saturated_fat": "0.1g",
+      "fiber": "0.4g",
+      "sugars": "1g",
+      "cholesterol": "0mg",
+      "sodium": "21mg",
+      "protein": "0.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Crispy Chili Oil",
+    "calories": "314",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "34g",
+      "carbs": "4.5g",
+      "saturated_fat": "2.6g",
+      "fiber": "0.8g",
+      "sugars": "0.7g",
+      "cholesterol": "0mg",
+      "sodium": "173.2mg",
+      "protein": "0.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Crispy Scallions",
+    "calories": "9",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "2.1g",
+      "saturated_fat": "0g",
+      "fiber": "0.8g",
+      "sugars": "0.6g",
+      "cholesterol": "0mg",
+      "sodium": "67mg",
+      "protein": "0.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Fried Eggs",
+    "calories": "89",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 EACH",
+    "allergens": [
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "6.8g",
+      "carbs": "0g",
+      "saturated_fat": "1.8g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "209.8mg",
+      "sodium": "79.4mg",
+      "protein": "6.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Fried Wonton Strips",
+    "calories": "82",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "egg",
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.4g",
+      "carbs": "16.8g",
+      "saturated_fat": "0.1g",
+      "fiber": "0.5g",
+      "sugars": "0g",
+      "cholesterol": "2.6mg",
+      "sodium": "162.1mg",
+      "protein": "2.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Honey Sesame Tempura Chicken",
+    "calories": "404",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "gluten",
+      "soy",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "13g",
+      "carbs": "61.3g",
+      "saturated_fat": "2.3g",
+      "fiber": "0.2g",
+      "sugars": "44.2g",
+      "cholesterol": "45.4mg",
+      "sodium": "703.6mg",
+      "protein": "16.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Mushroom Jasmine Rice",
+    "calories": "481",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "shellfish",
+      "fish",
+      "gluten",
+      "soy",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "8.7g",
+      "carbs": "92.8g",
+      "saturated_fat": "1.1g",
+      "fiber": "1.9g",
+      "sugars": "2.2g",
+      "cholesterol": "0mg",
+      "sodium": "611.3mg",
+      "protein": "9.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sauteed Sesame Daikon Radish",
+    "calories": "27",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "1.4g",
+      "carbs": "3g",
+      "saturated_fat": "0.2g",
+      "fiber": "0g",
+      "sugars": "2g",
+      "cholesterol": "0mg",
+      "sodium": "36.2mg",
+      "protein": "1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sauteed Sesame Mushrooms",
+    "calories": "39",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "2.1g",
+      "carbs": "3g",
+      "saturated_fat": "0.2g",
+      "fiber": "1g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "20.8mg",
+      "protein": "3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sauteed Sesame Shredded Carrots",
+    "calories": "53",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "2.3g",
+      "carbs": "8.1g",
+      "saturated_fat": "0.3g",
+      "fiber": "2.4g",
+      "sugars": "3.9g",
+      "cholesterol": "0mg",
+      "sodium": "69.9mg",
+      "protein": "0.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sauteed Sesame Spinach",
+    "calories": "44",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "2.1g",
+      "carbs": "6.5g",
+      "saturated_fat": "0.2g",
+      "fiber": "2.9g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "108.5mg",
+      "protein": "1.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sauteed Sesame Zucchini",
+    "calories": "33",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "2.2g",
+      "carbs": "3.1g",
+      "saturated_fat": "0.2g",
+      "fiber": "1.1g",
+      "sugars": "1.5g",
+      "cholesterol": "0mg",
+      "sodium": "11.2mg",
+      "protein": "1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Steamed Edamame Pods",
+    "calories": "2",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0.6g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0.2g",
+      "cholesterol": "0mg",
+      "sodium": "48.1mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Asian Beef Mongolian Grill",
+    "calories": "243",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "15.9g",
+      "carbs": "0g",
+      "saturated_fat": "6.8g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "59mg",
+      "sodium": "57.8mg",
+      "protein": "22.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Asian Chicken Mongolian Grill",
+    "calories": "125",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "1.4g",
+      "carbs": "0g",
+      "saturated_fat": "0.4g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "66mg",
+      "sodium": "74mg",
+      "protein": "26.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Asian Shrimp Mongolian Grill",
+    "calories": "83",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "shellfish",
+      "smartchoice"
+    ],
+    "nutrition": {
+      "total_fat": "0.9g",
+      "carbs": "0g",
+      "saturated_fat": "0.2g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "163.6mg",
+      "sodium": "188mg",
+      "protein": "17.5g",
+      "trans_fat": null
+    },
+    "scraped": true
+  },
+  {
+    "name": "Baby Corn",
+    "calories": "23",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.3g",
+      "carbs": "5.3g",
+      "saturated_fat": "0g",
+      "fiber": "0.6g",
+      "sugars": "1g",
+      "cholesterol": "0mg",
+      "sodium": "60.7mg",
+      "protein": "0.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chopped Basil",
+    "calories": "7",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0.7g",
+      "saturated_fat": "0g",
+      "fiber": "0.3g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "1mg",
+      "protein": "1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chopped Cilantro",
+    "calories": "1",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "0.2g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "0.7mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chopped Garlic",
+    "calories": "42",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "9.4g",
+      "saturated_fat": "0g",
+      "fiber": "0.6g",
+      "sugars": "0.3g",
+      "cholesterol": "0mg",
+      "sodium": "4.8mg",
+      "protein": "1.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Chopped Ginger",
+    "calories": "98",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.7g",
+      "carbs": "20.1g",
+      "saturated_fat": "0.6g",
+      "fiber": "3.7g",
+      "sugars": "0.9g",
+      "cholesterol": "0mg",
+      "sodium": "9.1mg",
+      "protein": "2.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "General Tso's Sauce",
+    "calories": "56",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "12.8g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "416.4mg",
+      "protein": "0.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Green Beans",
+    "calories": "7",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "1.8g",
+      "saturated_fat": "0g",
+      "fiber": "0.7g",
+      "sugars": "0.4g",
+      "cholesterol": "0mg",
+      "sodium": "1.8mg",
+      "protein": "0.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Orange Sauce",
+    "calories": "91",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "7g",
+      "carbs": "10.8g",
+      "saturated_fat": "0.9g",
+      "fiber": null,
+      "sugars": null,
+      "cholesterol": "0.6mg",
+      "sodium": "681.4mg",
+      "protein": "0.9g",
+      "trans_fat": null
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sauce Plum (RTU)",
+    "calories": "75",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "19.6g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "17.3g",
+      "cholesterol": "0mg",
+      "sodium": "391.3mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Shredded Cabbage",
+    "calories": "7",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "1.6g",
+      "saturated_fat": "0g",
+      "fiber": "0.6g",
+      "sugars": "1g",
+      "cholesterol": "0mg",
+      "sodium": "5.1mg",
+      "protein": "0.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Stir Fry Sauce (RTU)",
+    "calories": "32",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "shellfish",
+      "fish",
+      "gluten",
+      "soy",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "1.4g",
+      "carbs": "3.7g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "1.9g",
+      "cholesterol": "0mg",
+      "sodium": "407.3mg",
+      "protein": "0.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sugar Snap Peas",
+    "calories": "16",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "3.1g",
+      "saturated_fat": "0g",
+      "fiber": "0.9g",
+      "sugars": "1.6g",
+      "cholesterol": "0mg",
+      "sodium": "29.6mg",
+      "protein": "0.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sweet Sour Sauce (RTU)",
+    "calories": "71",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.9g",
+      "carbs": "14.2g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "12.4g",
+      "cholesterol": "0mg",
+      "sodium": "212.6mg",
+      "protein": "0g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Teriyaki Sauce",
+    "calories": "39",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian",
+      "sesame"
+    ],
+    "nutrition": {
+      "total_fat": "0.9g",
+      "carbs": "6.9g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "6g",
+      "cholesterol": "0mg",
+      "sodium": "283.5mg",
+      "protein": "0.9g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Water Chestnuts",
+    "calories": "9",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 OZ",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "2.2g",
+      "saturated_fat": "0g",
+      "fiber": "0.5g",
+      "sugars": "0.4g",
+      "cholesterol": "0mg",
+      "sodium": "1.5mg",
+      "protein": "0.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "White Rice",
+    "calories": "103",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "22.3g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "0mg",
+      "sodium": "2mg",
+      "protein": "2.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grilled  Basil Pesto Chicken Thigh",
+    "calories": "36",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "halalfriendly"
+    ],
+    "nutrition": {
+      "total_fat": "3.8g",
+      "carbs": "0.9g",
+      "saturated_fat": "0.4g",
+      "fiber": "0.1g",
+      "sugars": "0g",
+      "cholesterol": "0.4mg",
+      "sodium": "150.9mg",
+      "protein": "0.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grilled Chicken American Burger",
+    "calories": "252",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "18.3g",
+      "carbs": "1.5g",
+      "saturated_fat": "6g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "108.2mg",
+      "sodium": "623.4mg",
+      "protein": "20.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grilled Hot Dog",
+    "calories": "168",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [],
+    "nutrition": {
+      "total_fat": "14.3g",
+      "carbs": "0.4g",
+      "saturated_fat": "5g",
+      "fiber": null,
+      "sugars": null,
+      "cholesterol": "39.8mg",
+      "sodium": "826.2mg",
+      "protein": "9.7g",
+      "trans_fat": null
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grilled Ham and Cheddar Grilled Cheese Sandwich",
+    "calories": "321",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "18.4g",
+      "carbs": "24.5g",
+      "saturated_fat": "9.7g",
+      "fiber": "3.6g",
+      "sugars": "2.7g",
+      "cholesterol": "60.8mg",
+      "sodium": "584.7mg",
+      "protein": "18.5g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Filipino Chicken Afritada",
+    "calories": "95",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "fish",
+      "gluten",
+      "soy",
+      "halalfriendly"
+    ],
+    "nutrition": {
+      "total_fat": "3.7g",
+      "carbs": "4.6g",
+      "saturated_fat": "0.6g",
+      "fiber": "0.7g",
+      "sugars": "1.4g",
+      "cholesterol": "47.3mg",
+      "sodium": "308.7mg",
+      "protein": "10.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Grilled Lemon Pepper Salmon",
+    "calories": "278",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "total_fat": "9.5g",
+      "carbs": "0.8g",
+      "saturated_fat": "1.7g",
+      "fiber": "0g",
+      "sugars": "0g",
+      "cholesterol": "117.5mg",
+      "sodium": "1034.9mg",
+      "protein": "45.6g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegetable Jamaican Patties with Pineapple Salsa",
+    "calories": "75",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.9g",
+      "carbs": "14.2g",
+      "saturated_fat": "0.2g",
+      "fiber": "1.5g",
+      "sugars": "4.9g",
+      "cholesterol": "29.9mg",
+      "sodium": "201.4mg",
+      "protein": "3.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Braised Vegetables in Oyster Sauce",
+    "calories": "42",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "shellfish",
+      "fish",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "0.2g",
+      "carbs": "9.1g",
+      "saturated_fat": "0.2g",
+      "fiber": "2.2g",
+      "sugars": "3.5g",
+      "cholesterol": "0mg",
+      "sodium": "214.9mg",
+      "protein": "1.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Brick Oven Roasted Tarragon Red Onion Roma Tomatoes",
+    "calories": "22",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 OZ",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0g",
+      "carbs": "4.8g",
+      "saturated_fat": "0g",
+      "fiber": "1.2g",
+      "sugars": "3.5g",
+      "cholesterol": "0mg",
+      "sodium": "5.7mg",
+      "protein": "1.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Garlic Parmesan Oven Roasted Turnips",
+    "calories": "42",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "dairy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.1g",
+      "carbs": "5.2g",
+      "saturated_fat": "1g",
+      "fiber": "2g",
+      "sugars": "3.1g",
+      "cholesterol": "4.9mg",
+      "sodium": "88.3mg",
+      "protein": "2.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Garlic Tomato Squash White Bean Ragout",
+    "calories": "36",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "6.7g",
+      "saturated_fat": "0g",
+      "fiber": "1.8g",
+      "sugars": "1.6g",
+      "cholesterol": "0mg",
+      "sodium": "95.4mg",
+      "protein": "2.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Parmesan Peppercorn Iceberg Salad",
+    "calories": "121",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "10.7g",
+      "carbs": "5.1g",
+      "saturated_fat": "2g",
+      "fiber": "1.4g",
+      "sugars": "3.1g",
+      "cholesterol": "6.7mg",
+      "sodium": "202.2mg",
+      "protein": "2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Rosemary Onion Roasted Red Potatoes",
+    "calories": "64",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.4g",
+      "carbs": "9.5g",
+      "saturated_fat": "0.2g",
+      "fiber": "1g",
+      "sugars": "0.8g",
+      "cholesterol": "0mg",
+      "sodium": "3.6mg",
+      "protein": "1.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Sinangag - Filipino Fried Rice",
+    "calories": "111",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.2g",
+      "carbs": "18g",
+      "saturated_fat": "0.5g",
+      "fiber": "0.1g",
+      "sugars": "0.2g",
+      "cholesterol": "64.9mg",
+      "sodium": "37mg",
+      "protein": "4.1g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Greek Baked Ziti",
+    "calories": "215",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "6 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "nutrition": {
+      "total_fat": "12.6g",
+      "carbs": "14.6g",
+      "saturated_fat": "5.5g",
+      "fiber": "1g",
+      "sugars": "2.8g",
+      "cholesterol": "67mg",
+      "sodium": "285.1mg",
+      "protein": "12g",
+      "trans_fat": "0.2g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Linguni Mushroom Bolgnase",
+    "calories": "223",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "6 oz",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "7.2g",
+      "carbs": "34.2g",
+      "saturated_fat": "0.5g",
+      "fiber": "2.4g",
+      "sugars": "3.6g",
+      "cholesterol": "0.5mg",
+      "sodium": "127.3mg",
+      "protein": "6.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Parmesan Garlic Bread",
+    "calories": "174",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "8.7g",
+      "carbs": "21.3g",
+      "saturated_fat": "5.1g",
+      "fiber": "0.7g",
+      "sugars": "0.7g",
+      "cholesterol": "21.9mg",
+      "sodium": "232.8mg",
+      "protein": "4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "BBQ Portabello Mushroom and Provolone Sandwich",
+    "calories": "354",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "13.7g",
+      "carbs": "42.9g",
+      "saturated_fat": "5.8g",
+      "fiber": "3.5g",
+      "sugars": "18g",
+      "cholesterol": "27mg",
+      "sodium": "896.5mg",
+      "protein": "17g",
+      "trans_fat": "0.1g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Shredded Smoked Pork Mac and Cheese Sandwich",
+    "calories": "1088",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "nutrition": {
+      "total_fat": "45.7g",
+      "carbs": "131.6g",
+      "saturated_fat": "18.1g",
+      "fiber": "7g",
+      "sugars": "24.7g",
+      "cholesterol": "118mg",
+      "sodium": "1238.6mg",
+      "protein": "41.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Punjabi Lemon Chicken (purple)",
+    "calories": "103",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "halalfriendly"
+    ],
+    "nutrition": {
+      "total_fat": "4.8g",
+      "carbs": "4.5g",
+      "saturated_fat": "0.7g",
+      "fiber": "0.5g",
+      "sugars": "1.7g",
+      "cholesterol": "50mg",
+      "sodium": "66.8mg",
+      "protein": "11g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Green Curry Lentils",
+    "calories": "21",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.1g",
+      "carbs": "4.5g",
+      "saturated_fat": "0g",
+      "fiber": "0.5g",
+      "sugars": "0.5g",
+      "cholesterol": "0mg",
+      "sodium": "265.3mg",
+      "protein": "0.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Red Chili Garlic Green Beans",
+    "calories": "34",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "1.1g",
+      "carbs": "6.3g",
+      "saturated_fat": "0.1g",
+      "fiber": "2.4g",
+      "sugars": "1.3g",
+      "cholesterol": "0mg",
+      "sodium": "192.2mg",
+      "protein": "1.2g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Saffron Basmati Rice with Peas and Carrots",
+    "calories": "111",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.5g",
+      "carbs": "23.9g",
+      "saturated_fat": "0g",
+      "fiber": "0.9g",
+      "sugars": "1g",
+      "cholesterol": "0mg",
+      "sodium": "20.5mg",
+      "protein": "2.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Beef Barbacoa Enchiladas with Tomatillo Sauce",
+    "calories": "238",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 each",
+    "allergens": [
+      "gluten",
+      "soy",
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "9g",
+      "carbs": "24.3g",
+      "saturated_fat": "3.4g",
+      "fiber": "1.4g",
+      "sugars": "1g",
+      "cholesterol": "0mg",
+      "sodium": "612.3mg",
+      "protein": "14.8g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Roasted Corn and Peppers",
+    "calories": "77",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "3 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "0.8g",
+      "carbs": "16.2g",
+      "saturated_fat": "0g",
+      "fiber": "0.8g",
+      "sugars": "4g",
+      "cholesterol": "0mg",
+      "sodium": "4.3mg",
+      "protein": "2.3g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Tomato Black Bean Brown Rice",
+    "calories": "121",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "4 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "2.3g",
+      "carbs": "22.7g",
+      "saturated_fat": "0g",
+      "fiber": "1.9g",
+      "sugars": "1.2g",
+      "cholesterol": "0mg",
+      "sodium": "194.9mg",
+      "protein": "3.4g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  },
+  {
+    "name": "Vegan Lime Sour Cream",
+    "calories": "68",
+    "servings_per_container": "1 servings per container",
+    "serving_size": "1 oz",
+    "allergens": [
+      "vegan",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "total_fat": "5g",
+      "carbs": "5.3g",
+      "saturated_fat": "0g",
+      "fiber": "0g",
+      "sugars": "0.1g",
+      "cholesterol": "0mg",
+      "sodium": "50.1mg",
+      "protein": "1.7g",
+      "trans_fat": "0g"
+    },
+    "scraped": true
+  }
+]
