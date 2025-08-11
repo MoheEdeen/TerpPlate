@@ -125,6 +125,13 @@ Allergen-Specific:
 
 <img width="2478" height="1425" alt="image" src="https://github.com/user-attachments/assets/ea384b4f-a2d3-4f66-b7d1-6c48ca2b87e7" />
 
+## 📸 Screenshots
+
+<img width="2304" height="783" alt="image" src="https://github.com/user-attachments/assets/681d0051-388a-4914-8160-9e6629fb8fc0" />
+<img width="2478" height="1425" alt="image" src="https://github.com/user-attachments/assets/6b154d12-f9a9-4b97-a2a8-71be9d64ba4b" />
+<img width="1556" height="1230" alt="image" src="https://github.com/user-attachments/assets/bc4f7261-e16d-4440-872e-5fe474966edb" />
+<img width="2479" height="1422" alt="image" src="https://github.com/user-attachments/assets/007eed82-e915-4741-8bdb-bf5411c3e4ee" />
+
 ## 🧾 License
 This project is licensed under the MIT License.
 
