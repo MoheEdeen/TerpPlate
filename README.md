@@ -13,7 +13,7 @@ Through integration with Gemini AI, users receive personalized daily meal recomm
 - Allergen-friendly (Gluten-free, Nut-free, etc.)
 - Medical-focused (Low-sodium, Diabetic-friendly, Heart-healthy)
 
-[IMAGE_PLACEHOLDER: Screenshot of homepage]
+<img width="2472" height="1426" alt="image" src="https://github.com/user-attachments/assets/aa28a560-1dbe-43e4-a5af-246d9b3e06f3" />
 
 ## 🚀 Features
 
@@ -34,7 +34,7 @@ Through integration with Gemini AI, users receive personalized daily meal recomm
   - Three-column layout for Breakfast / Lunch / Dinner.
   - Interactive drawers to explore different recommendation categories.
 
-[IMAGE_PLACEHOLDER: Screenshot of recommendations drawer]
+<img width="2477" height="1423" alt="image" src="https://github.com/user-attachments/assets/ca12558c-1f20-41ac-b922-d508acdd23a4" />
 
 - Filtering by Occasion and Category  
   - Easily switch between breakfast, lunch, and dinner recommendations.
@@ -123,12 +123,7 @@ Allergen-Specific:
 22. Nut-free  
 23. Soy-free  
 
-[IMAGE_PLACEHOLDER: Screenshot showing categories UI]
-
-## 📸 Screenshots
-
-[IMAGE_PLACEHOLDER: Full-page screenshot]  
-[IMAGE_PLACEHOLDER: Mobile view screenshot]  
+<img width="2478" height="1425" alt="image" src="https://github.com/user-attachments/assets/ea384b4f-a2d3-4f66-b7d1-6c48ca2b87e7" />
 
 ## 🧾 License
 This project is licensed under the MIT License.
