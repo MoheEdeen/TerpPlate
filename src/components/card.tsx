@@ -1,5 +1,4 @@
 import { ChevronRight } from "lucide-react";
-import React from "react";
 
 const allergenColorMap: Record<string, string> = {
   dairy: "bg-[#0067AC]",
