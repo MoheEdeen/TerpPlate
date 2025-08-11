@@ -5,10 +5,8 @@ const NavBar = () => {
   return (
     <div className="fixed top-0 left-0 w-full z-50 flex justify-center bg-[#e21833] px-3 py-4 gap-8">
       <FlyoutLink href="#home">Home</FlyoutLink>
-      <FlyoutLink href="#recommended">Today's Recommended Meals</FlyoutLink>
-      <FlyoutLink href="#Breakfast" FlyoutContent={TimeContent}>
-        Time
-      </FlyoutLink>
+      <FlyoutLink href="#recommended">Recommended Meals</FlyoutLink>
+      <FlyoutLink href="#foods">Food</FlyoutLink>
     </div>
   );
 };
@@ -57,24 +55,6 @@ const FlyoutLink = ({
           </motion.div>
         )}
       </AnimatePresence>
-    </div>
-  );
-};
-
-const TimeContent = () => {
-  return (
-    <div className="w-64 bg-white p-6 shadow-xl">
-      <div className="mb-3 space-y-3">
-        <a href="#Breakfast" className="block text-sm hover:underline">
-          Breakfast
-        </a>
-        <a href="#Lunch" className="block text-sm hover:underline">
-          Lunch
-        </a>
-        <a href="#Dinner" className="block text-sm hover:underline">
-          Dinner
-        </a>
-      </div>
     </div>
   );
 };

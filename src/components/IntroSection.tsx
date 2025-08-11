@@ -3,7 +3,10 @@ import { motion } from "framer-motion";
 
 const IntroSection = ({ onSearch }: { onSearch: (value: string) => void }) => {
   return (
-    <section className="relative mt-32 px-4 overflow-hidden flex items-center justify-center">
+    <section
+      id="foods"
+      className="relative mt-32 px-4 overflow-hidden flex items-center justify-center"
+    >
       <div className="relative z-10 flex flex-col items-center justify-center text-center">
         <motion.span
           initial={{ opacity: 0 }}
