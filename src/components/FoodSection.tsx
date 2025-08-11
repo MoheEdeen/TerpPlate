@@ -14,6 +14,7 @@ const FoodSection = ({ searchTerm }: { searchTerm: string }) => {
   const [sortKey, setSortKey] = useState<string>("None");
   const [sortOrder, setSortOrder] = useState<"asc" | "desc">("asc");
   const [selectedTab, setSelectedTab] = useState("251 North");
+  const [selectedMeal, setSelectedMeal] = useState("Breakfast");
 
   const filterRef = useRef<HTMLDivElement>(null);
 
@@ -23,11 +24,11 @@ const FoodSection = ({ searchTerm }: { searchTerm: string }) => {
     "South Campus": dataSouth as Record<string, any[]>,
   };
 
-  const rawData = hallDataMap[selectedTab] ?? {};
-
-  const data = Object.entries(rawData).flatMap(([mealType, items]) =>
-    items.map((item: any) => ({ ...item, mealType }))
-  );
+  const hallData = hallDataMap[selectedTab] ?? {};
+  const data = (hallData[selectedMeal] ?? []).map((item: any) => ({
+    ...item,
+    mealType: selectedMeal,
+  }));
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
@@ -82,7 +83,7 @@ const FoodSection = ({ searchTerm }: { searchTerm: string }) => {
           <span className="text-xl md:text-2xl justify-self-start">
             Showing results containing "{searchTerm}"
           </span>
-          <span className="text-xl md:text-2xl justify-self-end">
+          <span className="text-xl mb-20 md:text-2xl justify-self-end">
             <button onClick={filter} className="cursor-pointer">
               <ListFilter />
             </button>
@@ -147,48 +148,57 @@ const FoodSection = ({ searchTerm }: { searchTerm: string }) => {
               </div>
             )}
           </span>
-
-          <ChipTabs selected={selectedTab} setSelected={setSelectedTab} />
+          <div className="col-span-2 grid grid-cols-1 md:grid-cols-2 items-center">
+            <div className="md:justify-self-start">
+              <ChipTabs
+                group="halls"
+                selected={selectedTab}
+                tabs={["251 North", "Yahentamitsi", "South Campus"]}
+                setSelected={setSelectedTab}
+              />
+            </div>
+            <div className="md:justify-self-end">
+              <ChipTabs
+                group="meals"
+                selected={selectedMeal}
+                tabs={["Breakfast", "Lunch", "Dinner"]}
+                setSelected={setSelectedMeal}
+              />
+            </div>
+          </div>
         </div>
 
-        {["Breakfast", "Lunch", "Dinner"].map((mealType) => {
-          const mealItems = filteredData.filter(
-            (item) => item.mealType === mealType
-          );
+        <section id={selectedMeal}>
+          <div className="bg-red-500 w-screen text-center py-4 mb-12 relative left-1/2 right-1/2 -ml-[50vw] -mr-[50vw]">
+            <h2 className="text-2xl md:text-3xl font-semibold text-white">
+              {selectedMeal} at {selectedTab}
+            </h2>
+          </div>
 
-          return (
-            <section id={mealType} key={mealType}>
-              <div className="bg-red-500 w-screen text-center py-4 mb-12 relative left-1/2 right-1/2 -ml-[50vw] -mr-[50vw]">
-                <h2 className="text-2xl md:text-3xl font-semibold text-white">
-                  {mealType}
-                </h2>
+          <div className="mb-16 w-full">
+            {filteredData.length > 0 ? (
+              <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6 place-items-center">
+                {filteredData.map((food) => (
+                  <Card
+                    key={`${food.mealType}-${food.name}`}
+                    name={food.name}
+                    calories={food.calories}
+                    allergens={food.allergens}
+                    fat={food.nutrition.total_fat}
+                    carbs={food.nutrition.carbs}
+                    protein={food.nutrition.protein}
+                    sodium={food.nutrition.sodium}
+                    onOpen={() => setSelected(food)}
+                  />
+                ))}
               </div>
-              <div className="mb-16 w-full">
-                {mealItems.length > 0 ? (
-                  <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6 place-items-center">
-                    {mealItems.map((food) => (
-                      <Card
-                        key={`${food.mealType}-${food.name}`}
-                        name={food.name}
-                        calories={food.calories}
-                        allergens={food.allergens}
-                        fat={food.nutrition.total_fat}
-                        carbs={food.nutrition.carbs}
-                        protein={food.nutrition.protein}
-                        sodium={food.nutrition.sodium}
-                        onOpen={() => setSelected(food)}
-                      />
-                    ))}
-                  </div>
-                ) : (
-                  <p className="text-gray-500 italic">
-                    No items found for {mealType}.
-                  </p>
-                )}
-              </div>
-            </section>
-          );
-        })}
+            ) : (
+              <p className="text-gray-500 italic">
+                No items found for {selectedMeal}.
+              </p>
+            )}
+          </div>
+        </section>
       </div>
 
       {selected && (

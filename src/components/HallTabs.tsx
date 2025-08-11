@@ -1,23 +1,26 @@
 import { motion } from "framer-motion";
 import type { Dispatch, SetStateAction } from "react";
 
-const tabs = ["251 North", "Yahentamitsi", "South Campus"];
-
 const ChipTabs = ({
   selected,
+  tabs,
   setSelected,
+  group,
 }: {
   selected: string;
+  tabs: string[];
   setSelected: Dispatch<SetStateAction<string>>;
+  group: string;
 }) => {
   return (
-    <div className="py-14 flex items-center gap-2">
+    <div className="py-4 inline-flex items-center gap-2 w-fit">
       {tabs.map((tab) => (
         <Chip
           text={tab}
           selected={selected === tab}
           setSelected={setSelected}
           key={tab}
+          layoutId={`pill-tab-${group}`}
         />
       ))}
     </div>
@@ -28,10 +31,12 @@ const Chip = ({
   text,
   selected,
   setSelected,
+  layoutId,
 }: {
   text: string;
   selected: boolean;
   setSelected: Dispatch<SetStateAction<string>>;
+  layoutId: string;
 }) => {
   return (
     <button
@@ -45,7 +50,7 @@ const Chip = ({
       <span className="relative z-10">{text}</span>
       {selected && (
         <motion.span
-          layoutId="pill-tab"
+          layoutId={layoutId}
           transition={{ type: "spring", duration: 0.5 }}
           className="absolute inset-0 z-0 bg-[#ffd200] rounded-md"
         ></motion.span>
