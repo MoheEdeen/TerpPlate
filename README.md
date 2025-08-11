@@ -1,54 +1,139 @@
-# React + TypeScript + Vite
+# UMD Dining AI Meal Recommender
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack web application that scrapes the University of Maryland College Park Dining website (https://nutrition.umd.edu/) daily, processes nutrition data, and uses Google’s Gemini AI to recommend personalized meals for students and staff.
 
-Currently, two official plugins are available:
+## 📖 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project automatically gathers up-to-date menus for Breakfast, Lunch, and Dinner across all three UMD dining halls. It presents the meals in a clean, user-friendly interface along with detailed nutrition facts (calories, protein, fat, carbs, etc.).  
+Through integration with Gemini AI, users receive personalized daily meal recommendations tailored to specific goals and dietary preferences, such as:
 
-## Expanding the ESLint configuration
+- Bulking / Cutting
+- Vegan / Vegetarian / Pescatarian
+- Low-carb / Keto
+- Allergen-friendly (Gluten-free, Nut-free, etc.)
+- Medical-focused (Low-sodium, Diabetic-friendly, Heart-healthy)
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+[IMAGE_PLACEHOLDER: Screenshot of homepage]
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## 🚀 Features
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+- Automated Web Scraping  
+  - Python + BeautifulSoup fetches daily menu data from UMD Dining Services.
+  - Pulls all meals from Breakfast, Lunch, Dinner for every dining hall.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+- Structured Nutrition Data  
+  - Parses calories, protein, fat, carbs, sugars, sodium, cholesterol, fiber.
+  - Stores data in JSON format for easy use in frontend.
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+- AI-Powered Recommendations  
+  - Uses Google Gemini AI (google-genai) to analyze meals and generate 69 daily recommendations (23 categories × 3 occasions).
+  - Categories include nutritional goals, health/medical goals, dietary preferences, and allergen-specific needs.
+
+- Responsive Frontend  
+  - Built with React + TypeScript + Tailwind CSS for a modern UI.
+  - Three-column layout for Breakfast / Lunch / Dinner.
+  - Interactive drawers to explore different recommendation categories.
+
+[IMAGE_PLACEHOLDER: Screenshot of recommendations drawer]
+
+- Filtering by Occasion and Category  
+  - Easily switch between breakfast, lunch, and dinner recommendations.
+  - Organized by category for quick access.
+
+## 🛠️ Tech Stack
+
+Frontend: React, TypeScript, Tailwind CSS, Framer Motion (animations)  
+Backend / Scraping: Python 3, BeautifulSoup4, dotenv  
+AI Integration: Google Gemini AI (google-genai), prompt engineering for structured meal recommendations  
+Build Tools: Node.js & npm  
+
+## 📂 Project Structure
+
+.
+├── scraper/                # Python web scraper for UMD Dining  
+│   ├── gemini.py            # AI prompt & recommendation generator  
+│   └── scrape.py            # BeautifulSoup scraper logic  
+├── data/                    # Saved JSON menu & recommendations  
+├── src/components/          # React UI components  
+│   ├── Drawer.tsx  
+│   ├── BounceCard.tsx  
+│   ├── RecommendedSection.tsx  
+├── public/                  # Static assets  
+├── package.json  
+├── README.md  
+└── ...
+
+## ⚙️ Setup & Installation
+
+1. Clone the repo:  
+git clone https://github.com/YOUR_USERNAME/umd-dining-ai.git  
+cd umd-dining-ai  
+
+2. Install dependencies:  
+Frontend:  
+npm install  
+Backend/Scraper:  
+pip install -r requirements.txt  
+
+3. Environment variables:  
+Create `.env.local` in the root directory with:  
+GEMINI_API_KEY=your_google_genai_api_key  
+
+4. Run the scraper:  
+python scraper/scrape.py  
+
+5. Generate AI recommendations:  
+python scraper/gemini.py  
+
+6. Start the frontend:  
+npm run dev  
+
+## 🧠 AI Recommendation Categories
+
+The system generates 23 recommendation types for each meal occasion:
+
+Nutritional Goal-Based:  
+1. High-calorie (Bulking)  
+2. Low-calorie (Cutting)  
+3. High-protein  
+4. Low-carb  
+5. Keto  
+6. Balanced  
+7. High-fiber  
+8. Low-fat  
+9. High-fat  
+
+Health / Medical Goals:  
+10. Low-sodium  
+11. Low-cholesterol  
+12. Diabetic-friendly  
+13. Heart-healthy  
+14. Low-glycemic  
+
+Dietary Preference:  
+15. Vegetarian  
+16. Vegan  
+17. Pescatarian  
+18. Plant-based  
+
+Allergen-Specific:  
+19. Gluten-free  
+20. Dairy-free  
+21. Egg-free  
+22. Nut-free  
+23. Soy-free  
+
+[IMAGE_PLACEHOLDER: Screenshot showing categories UI]
+
+## 📸 Screenshots
+
+[IMAGE_PLACEHOLDER: Full-page screenshot]  
+[IMAGE_PLACEHOLDER: Mobile view screenshot]  
+
+## 🧾 License
+This project is licensed under the MIT License.
+
+## 🙌 Acknowledgements
+- University of Maryland Dining Services for menu data.
+- Google Gemini AI for powering recommendations.
+- BeautifulSoup for HTML parsing.
