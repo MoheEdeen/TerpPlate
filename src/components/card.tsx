@@ -1,5 +1,3 @@
-import { ChevronRight } from "lucide-react";
-
 const allergenColorMap: Record<string, string> = {
   dairy: "bg-[#0067AC]",
   egg: "bg-[#F7A800]",
@@ -35,19 +33,17 @@ const Card = ({
   onOpen: () => void;
 }) => {
   return (
-    <div className="product-card w-[300px] rounded-4xl inset-ring shadow-xl overflow-hidden z-[10] relative cursor-pointer snap-start shrink-0 py-8 px-6 bg-white flex flex-col items-center justify-center gap-3 transition-all duration-300 group">
+    <div className="product-card w-[300px] rounded-4xl inset-ring shadow-xl overflow-hidden z-[10] relative cursor-pointer snap-start shrink-0 py-8 px-6 bg-white flex flex-col items-center justify-center gap-4 transition-all duration-300">
+      {/* Title */}
       <div className="para uppercase text-center leading-none z-40">
         <p className="font-bold text-xl tracking-wider text-[#e21833] z-30">
           {name}
         </p>
       </div>
 
-      <div className="w-[180px] aspect-square relative z-20 sm:after:absolute sm:after:h-1 sm:after:w-full sm:after:opacity-0 sm:after:bg-[#ffd200] sm:after:top-8 sm:after:left-0 sm:after:group-hover:opacity-100 sm:after:translate-x-1/2 sm:after:translate-y-1/2 sm:after:-z-20 sm:after:group-hover:w-full sm:after:transition-all sm:after:duration-300 sm:after:group-hover:origin-right sm:after:group-hover:-translate-x-1/2 sm:group-hover:translate-x-1/2 transition-none flex items-center justify-center">
-        <ChevronRight size={64} className="hidden sm:block" />
-        <div className="tooltips absolute top-0 md:left-0 translate-x-0 sm:-translate-x-[150%] p-2 flex flex-col items-start gap-10 transition-none sm:transition-all duration-300 sm:group-hover:-translate-x-full">
-          <p className="text-[#e21833] font-semibold text-xl opacity-100 sm:opacity-0 sm:group-hover:opacity-100 sm:group-hover:delay-150 transition-none sm:transition-all sm:duration-500">
-            {calories} Cal
-          </p>
+      <div className="w-full z-20">
+        <div className="flex flex-col items-start gap-3">
+          <p className="text-[#e21833] font-semibold text-xl">{calories} Cal</p>
 
           <ul className="flex flex-col items-start gap-2">
             {[
@@ -55,13 +51,8 @@ const Card = ({
               ["Carbs", carbs],
               ["Protein", protein],
               ["Sodium", sodium],
-            ].map(([label, val], i) => (
-              <li
-                key={label}
-                className={`inline-flex gap-2 items-center justify-center opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-none sm:transition-all sm:duration-500 sm:group-hover:delay-${
-                  200 + i * 100
-                }`}
-              >
+            ].map(([label, val]) => (
+              <li key={label} className="inline-flex gap-2 items-center">
                 <svg
                   strokeLinejoin="round"
                   strokeLinecap="round"
@@ -86,7 +77,7 @@ const Card = ({
         </div>
       </div>
 
-      <div className="opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-none sm:transition-opacity sm:duration-300">
+      <div className="opacity-100">
         <button
           onClick={onOpen}
           className="cursor-pointer bg-[#ffd200] text-black px-4 py-1 rounded-lg border-[#e6bd00] border-b-[4px] hover:brightness-105 hover:-translate-y-[1px] hover:border-b-[6px] active:border-b-[2px] active:brightness-95 active:translate-y-[2px] transition-all"
