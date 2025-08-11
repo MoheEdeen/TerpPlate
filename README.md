@@ -1,3 +1,7 @@
+# Use Here
+
+https://terpplate.netlify.app/
+
 # UMD Dining AI Meal Recommender
 
 A full-stack web application that scrapes the University of Maryland College Park Dining website (https://nutrition.umd.edu/) daily, processes nutrition data, and uses Google’s Gemini AI to recommend personalized meals for students and staff.
