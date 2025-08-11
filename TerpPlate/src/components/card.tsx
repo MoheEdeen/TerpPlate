@@ -24,7 +24,6 @@ const Card = ({
   carbs,
   protein,
   sodium,
-
   onOpen,
 }: {
   name: string;
@@ -34,22 +33,23 @@ const Card = ({
   carbs: string | null;
   protein: string | null;
   sodium: string | null;
-
   onOpen: () => void;
 }) => {
   return (
-    <div className="product-card w-[300px] rounded-md shadow-xl overflow-hidden z-[10] relative cursor-pointer snap-start shrink-0 py-8 px-6 bg-white flex flex-col items-center justify-center gap-3 transition-all duration-300 group">
+    <div className="product-card w-[300px] rounded-4xl inset-ring shadow-xl overflow-hidden z-[10] relative cursor-pointer snap-start shrink-0 py-8 px-6 bg-white flex flex-col items-center justify-center gap-3 transition-all duration-300 group">
       <div className="para uppercase text-center leading-none z-40">
         <p className="font-bold text-xl tracking-wider text-[#e21833] z-30">
           {name}
         </p>
       </div>
-      <div className="w-[180px] aspect-square relative z-20 after:absolute after:h-1 after:w-full after:opacity-0 after:bg-[#ffd200] after:top-8 after:left-0 after:group-hover:opacity-100 after:translate-x-1/2 after:translate-y-1/2 after:-z-20 after:group-hover:w-full after:transition-all after:duration-300 after:group-hover:origin-right after:group-hover:-translate-x-1/2 group-hover:translate-x-1/2 transition-all duration-300 flex items-center justify-center">
-        <ChevronRight size={64} />
-        <div className="tooltips absolute top-0 left-0 -translate-x-[150%] p-2 flex flex-col items-start gap-10 transition-all duration-300 group-hover:-translate-x-full">
-          <p className="text-[#e21833] font-semibold text-xl group-hover:delay-150 transition-all opacity-0 group-hover:opacity-100 group-hover:transition-all group-hover:duration-500">
+
+      <div className="w-[180px] aspect-square relative z-20 sm:after:absolute sm:after:h-1 sm:after:w-full sm:after:opacity-0 sm:after:bg-[#ffd200] sm:after:top-8 sm:after:left-0 sm:after:group-hover:opacity-100 sm:after:translate-x-1/2 sm:after:translate-y-1/2 sm:after:-z-20 sm:after:group-hover:w-full sm:after:transition-all sm:after:duration-300 sm:after:group-hover:origin-right sm:after:group-hover:-translate-x-1/2 sm:group-hover:translate-x-1/2 transition-none flex items-center justify-center">
+        <ChevronRight size={64} className="hidden sm:block" />
+        <div className="tooltips absolute top-0 md:left-0 translate-x-0 sm:-translate-x-[150%] p-2 flex flex-col items-start gap-10 transition-none sm:transition-all duration-300 sm:group-hover:-translate-x-full">
+          <p className="text-[#e21833] font-semibold text-xl opacity-100 sm:opacity-0 sm:group-hover:opacity-100 sm:group-hover:delay-150 transition-none sm:transition-all sm:duration-500">
             {calories} Cal
           </p>
+
           <ul className="flex flex-col items-start gap-2">
             {[
               ["Fat", fat],
@@ -59,9 +59,9 @@ const Card = ({
             ].map(([label, val], i) => (
               <li
                 key={label}
-                className={`inline-flex gap-2 items-center justify-center group-hover:delay-${
+                className={`inline-flex gap-2 items-center justify-center opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-none sm:transition-all sm:duration-500 sm:group-hover:delay-${
                   200 + i * 100
-                } transition-all opacity-0 group-hover:opacity-100 group-hover:transition-all group-hover:duration-500`}
+                }`}
               >
                 <svg
                   strokeLinejoin="round"
@@ -86,17 +86,16 @@ const Card = ({
           </ul>
         </div>
       </div>
-      <div className="opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+
+      <div className="opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-none sm:transition-opacity sm:duration-300">
         <button
           onClick={onOpen}
-          className="cursor-pointer bg-[#ffd200] text-black px-4 py-1 rounded-lg
-          border-[#e6bd00]
-          border-b-[4px] hover:brightness-105 hover:-translate-y-[1px] hover:border-b-[6px]
-          active:border-b-[2px] active:brightness-95 active:translate-y-[2px] transition-all"
+          className="cursor-pointer bg-[#ffd200] text-black px-4 py-1 rounded-lg border-[#e6bd00] border-b-[4px] hover:brightness-105 hover:-translate-y-[1px] hover:border-b-[6px] active:border-b-[2px] active:brightness-95 active:translate-y-[2px] transition-all"
         >
           View More
         </button>
       </div>
+
       <div className="grid grid-cols-3 mt-6 gap-2 w-fit mx-auto">
         {allergens.map((tag, i) => {
           const bgColor = allergenColorMap[tag.toLowerCase()] || "bg-gray-200";

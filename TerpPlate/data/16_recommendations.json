@@ -1,0 +1,1417 @@
+[
+  {
+    "occasion": "Breakfast",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "High-calorie (Bulking)",
+    "items_name": [
+      "Vegan Waffle French Toast",
+      "Maple Syrup",
+      "Blueberry Compote",
+      "Banana",
+      "Earth Balance Soy Free Spread"
+    ],
+    "total_calories": 1025.0,
+    "macros": {
+      "protein": 21.8,
+      "fat": 27.6,
+      "carbs": 169.1
+    },
+    "suggestions": [
+      "Consider adding a side of scrambled eggs for more protein, if not strictly vegan."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Low-calorie (Cutting)",
+    "items_name": [
+      "Scrambled Egg Whites",
+      "Mushroom, Spinach & Tomato Vegetable Hash",
+      "Grapefruit Half"
+    ],
+    "total_calories": 231.0,
+    "macros": {
+      "protein": 20.1,
+      "fat": 6.3,
+      "carbs": 21.4
+    },
+    "suggestions": [
+      "Add more vegetables to increase fiber and nutrients without significant calorie addition."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "High-protein",
+    "items_name": [
+      "Scrambled Cheesy Cheddar Egg",
+      "Bacon",
+      "Hard Boiled Egg (Breakfast)"
+    ],
+    "total_calories": 536.0,
+    "macros": {
+      "protein": 38.3,
+      "fat": 42.4,
+      "carbs": 1.2
+    },
+    "suggestions": [
+      "Pair with a small portion of fruit for some carbs and fiber."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Low-carb",
+    "items_name": [
+      "Scrambled Cheesy Cheddar Egg",
+      "Bacon",
+      "Cheddar Cheese Sliced"
+    ],
+    "total_calories": 511.0,
+    "macros": {
+      "protein": 34.5,
+      "fat": 41.6,
+      "carbs": 1.7
+    },
+    "suggestions": [
+      "Add some non-starchy vegetables like spinach or mushrooms for added nutrients."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Keto",
+    "items_name": [
+      "Scrambled Eggs",
+      "Bacon",
+      "American Cheese Sliced",
+      "Cheddar Cheese Sliced"
+    ],
+    "total_calories": 544.0,
+    "macros": {
+      "protein": 32.7,
+      "fat": 40.5,
+      "carbs": 1.7
+    },
+    "suggestions": [
+      "Incorporate avocado or extra virgin olive oil for healthy fats."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Balanced",
+    "items_name": [
+      "Oatmeal",
+      "Fresh Blueberry",
+      "Yogurt Plain"
+    ],
+    "total_calories": 470.0,
+    "macros": {
+      "protein": 15.0,
+      "fat": 7.6,
+      "carbs": 88.2
+    },
+    "suggestions": [
+      "Add a small handful of nuts or seeds for healthy fats and extra fiber."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "High-fiber",
+    "items_name": [
+      "Oatmeal",
+      "Fresh Blueberry",
+      "Cereal Granola"
+    ],
+    "total_calories": 586.0,
+    "macros": {
+      "protein": 15.8,
+      "fat": 9.2,
+      "carbs": 115.2
+    },
+    "suggestions": [
+      "Include chia seeds or flax seeds for an even higher fiber boost."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Low-fat",
+    "items_name": [
+      "Scrambled Egg Whites",
+      "Breakfast Potatoes w/ Peppers & Onions",
+      "Cantaloupe"
+    ],
+    "total_calories": 187.0,
+    "macros": {
+      "protein": 15.2,
+      "fat": 2.2,
+      "carbs": 31.9
+    },
+    "suggestions": [
+      "Ensure protein intake is sufficient with lean protein sources throughout the day."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "High-fat",
+    "items_name": [
+      "Bacon",
+      "Butter",
+      "Grilled Croissant",
+      "American Cheese Sliced"
+    ],
+    "total_calories": 737.0,
+    "macros": {
+      "protein": 22.5,
+      "fat": 62.9,
+      "carbs": 25.4
+    },
+    "suggestions": [
+      "Balance with some fruit for vitamins and minerals, if calories allow."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Health/Medical Goals",
+    "subcategory": "Low-sodium",
+    "items_name": [
+      "Oatmeal",
+      "Fresh Blueberry",
+      "Grapes"
+    ],
+    "total_calories": 431.0,
+    "macros": {
+      "protein": 12.1,
+      "fat": 7.1,
+      "carbs": 84.5
+    },
+    "suggestions": [
+      "Opt for unsalted nuts or seeds as toppings to keep sodium low."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Health/Medical Goals",
+    "subcategory": "Low-cholesterol",
+    "items_name": [
+      "Roasted Chick Peas, Sweet Potatoes and Peppers",
+      "Mushroom, Spinach & Tomato Vegetable Hash",
+      "Vegan Vanilla Soy-Free Yogurt"
+    ],
+    "total_calories": 382.0,
+    "macros": {
+      "protein": 17.8,
+      "fat": 8.8,
+      "carbs": 55.8
+    },
+    "suggestions": [
+      "Choose plant-based milks and avoid high-cholesterol items like egg yolks and processed meats."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Health/Medical Goals",
+    "subcategory": "Diabetic-friendly",
+    "items_name": [
+      "Oatmeal",
+      "Fresh Blueberry",
+      "Roasted Chick Peas, Sweet Potatoes and Peppers"
+    ],
+    "total_calories": 658.0,
+    "macros": {
+      "protein": 17.0,
+      "fat": 8.6,
+      "carbs": 92.1
+    },
+    "suggestions": [
+      "Monitor portion sizes of carb-containing foods and consult a dietitian for personalized guidance."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Health/Medical Goals",
+    "subcategory": "Heart-healthy",
+    "items_name": [
+      "Oatmeal",
+      "Roasted Chick Peas, Sweet Potatoes and Peppers",
+      "Fresh Blueberry",
+      "Vegan Vanilla Soy-Free Yogurt"
+    ],
+    "total_calories": 662.0,
+    "macros": {
+      "protein": 24.1,
+      "fat": 10.2,
+      "carbs": 100.8
+    },
+    "suggestions": [
+      "Choose plant-based fats like avocado or nuts in moderation and limit saturated fat intake."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Health/Medical Goals",
+    "subcategory": "Low-glycemic",
+    "items_name": [
+      "Roasted Chick Peas, Sweet Potatoes and Peppers",
+      "Mushroom, Spinach & Tomato Vegetable Hash",
+      "Cottage Cheese"
+    ],
+    "total_calories": 316.0,
+    "macros": {
+      "protein": 18.8,
+      "fat": 9.3,
+      "carbs": 37.9
+    },
+    "suggestions": [
+      "Focus on whole, unprocessed foods and limit added sugars."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Dietary Preference",
+    "subcategory": "Vegetarian",
+    "items_name": [
+      "Pancakes Plain",
+      "Scrambled Cheesy Cheddar Egg",
+      "Breakfast Potatoes w/ Peppers & Onions",
+      "Maple Syrup",
+      "Blueberry Compote"
+    ],
+    "total_calories": 569.0,
+    "macros": {
+      "protein": 20.8,
+      "fat": 21.8,
+      "carbs": 76.8
+    },
+    "suggestions": [
+      "Add fresh fruit for more vitamins and fiber."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Dietary Preference",
+    "subcategory": "Vegan",
+    "items_name": [
+      "Vegan Pancake Gluten Free",
+      "Roasted Chick Peas, Sweet Potatoes and Peppers",
+      "Maple Syrup",
+      "Blueberry Compote",
+      "Earth Balance Soy Free Spread"
+    ],
+    "total_calories": 541.0,
+    "macros": {
+      "protein": 8.2,
+      "fat": 29.2,
+      "carbs": 86.6
+    },
+    "suggestions": [
+      "Include a plant-based protein source like tofu scramble or vegan sausage for higher protein content."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Dietary Preference",
+    "subcategory": "Pescatarian",
+    "items_name": [
+      "Oatmeal",
+      "Fresh Blueberry",
+      "Yogurt Plain"
+    ],
+    "total_calories": 470.0,
+    "macros": {
+      "protein": 15.0,
+      "fat": 7.6,
+      "carbs": 88.2
+    },
+    "suggestions": [
+      "This meal is suitable, as fish is not typically consumed for breakfast and is not available in the breakfast menu."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Dietary Preference",
+    "subcategory": "Plant-based",
+    "items_name": [
+      "Vegan Waffle French Toast",
+      "Mango Pineapple Barley Pudding",
+      "Roasted Chick Peas, Sweet Potatoes and Peppers",
+      "Vegan Vanilla Soy-Free Yogurt",
+      "Blueberry Compote"
+    ],
+    "total_calories": 1188.0,
+    "macros": {
+      "protein": 30.7,
+      "fat": 29.5,
+      "carbs": 188.7
+    },
+    "suggestions": [
+      "Ensure variety in plant-based proteins to get all essential amino acids."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Allergen-Specific",
+    "subcategory": "Gluten-free",
+    "items_name": [
+      "Roasted Chick Peas, Sweet Potatoes and Peppers",
+      "Scrambled Eggs",
+      "Fresh Blueberry",
+      "Yogurt Plain"
+    ],
+    "total_calories": 480.0,
+    "macros": {
+      "protein": 22.8,
+      "fat": 19.5,
+      "carbs": 48.2
+    },
+    "suggestions": [
+      "Always double check ingredients for hidden gluten, especially in sauces or processed items."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Allergen-Specific",
+    "subcategory": "Dairy-free",
+    "items_name": [
+      "Vegan Pancake Gluten Free",
+      "Roasted Chick Peas, Sweet Potatoes and Peppers",
+      "Maple Syrup",
+      "Earth Balance Soy Free Spread",
+      "Vegan Vanilla Soy-Free Yogurt"
+    ],
+    "total_calories": 647.0,
+    "macros": {
+      "protein": 10.2,
+      "fat": 32.7,
+      "carbs": 102.7
+    },
+    "suggestions": [
+      "Verify all toppings and condiments are dairy-free."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Allergen-Specific",
+    "subcategory": "Egg-free",
+    "items_name": [
+      "Oatmeal",
+      "Maple Syrup",
+      "Fresh Blueberry",
+      "Banana",
+      "Cereal Granola"
+    ],
+    "total_calories": 664.0,
+    "macros": {
+      "protein": 15.2,
+      "fat": 7.3,
+      "carbs": 139.7
+    },
+    "suggestions": [
+      "Be cautious of cross-contamination in shared cooking spaces or with baked goods."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Allergen-Specific",
+    "subcategory": "Nut-free",
+    "items_name": [
+      "Pancakes Plain",
+      "Bacon",
+      "Breakfast Potatoes w/ Peppers & Onions",
+      "Maple Syrup",
+      "Apple Filling"
+    ],
+    "total_calories": 555.0,
+    "macros": {
+      "protein": 18.8,
+      "fat": 25.9,
+      "carbs": 55.6
+    },
+    "suggestions": [
+      "Many cereals and baked goods may contain nuts or be processed on shared equipment. Always check labels."
+    ]
+  },
+  {
+    "occasion": "Breakfast",
+    "category": "Allergen-Specific",
+    "subcategory": "Soy-free",
+    "items_name": [
+      "Bacon",
+      "Scrambled Eggs",
+      "Hard Boiled Egg (Breakfast)",
+      "Breakfast Potatoes w/ Peppers & Onions",
+      "Apple Filling"
+    ],
+    "total_calories": 660.0,
+    "macros": {
+      "protein": 37.6,
+      "fat": 36.1,
+      "carbs": 36.1
+    },
+    "suggestions": [
+      "Soy is present in many processed foods. Be vigilant about checking ingredient lists for soy derivatives."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "High-calorie (Bulking)",
+    "items_name": [
+      "Millet & Chia Burger Buns",
+      "Cheeseburger with American Cheese",
+      "Seasoned Spiral Fries",
+      "Chocolate Chip Cookie"
+    ],
+    "total_calories": 1528.0,
+    "macros": {
+      "protein": 30.2,
+      "fat": 84.6,
+      "carbs": 168.0
+    },
+    "suggestions": [
+      "Consider adding a high-calorie shake for additional intake."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Low-calorie (Cutting)",
+    "items_name": [
+      "Carved Smoked Turkey Breast",
+      "Fresh Steamed Broccoli",
+      "Fresh Steamed Green Beans",
+      "Mixed Greens",
+      "Chipotle Basil Cous Cous"
+    ],
+    "total_calories": 298.0,
+    "macros": {
+      "protein": 29.8,
+      "fat": 8.8,
+      "carbs": 15.8
+    },
+    "suggestions": [
+      "Add more non-starchy vegetables to increase volume and satiety for minimal calories."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "High-protein",
+    "items_name": [
+      "Grilled Smoked Polish Sausage",
+      "Grilled Southwestern Chipotle Pesto Chicken Thigh",
+      "Carved Smoked Turkey Breast",
+      "Collard Green with Smoked Turkey",
+      "Roasted Corn Cherry Tomatoes and Mozzarella Cheese"
+    ],
+    "total_calories": 869.0,
+    "macros": {
+      "protein": 86.8,
+      "fat": 37.4,
+      "carbs": 26.4
+    },
+    "suggestions": [
+      "This meal is very high in protein. Ensure adequate hydration."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Low-carb",
+    "items_name": [
+      "Cheeseburger with American Cheese",
+      "Grilled Smoked Polish Sausage",
+      "Grilled Southwestern Chipotle Pesto Chicken Thigh",
+      "Bacon Bits",
+      "Sliced Red Onion",
+      "Shredded Lettuce",
+      "Sliced Tomatoes",
+      "Grilled Peppers",
+      "Grilled Mushrooms"
+    ],
+    "total_calories": 810.0,
+    "macros": {
+      "protein": 58.7,
+      "fat": 59.9,
+      "carbs": 7.0
+    },
+    "suggestions": [
+      "Ensure your other meals for the day align with a low-carb approach."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Keto",
+    "items_name": [
+      "Cheeseburger with American Cheese",
+      "Grilled Smoked Polish Sausage",
+      "Bacon Bits",
+      "Sliced Red Onion",
+      "Shredded Lettuce",
+      "Sliced Tomatoes",
+      "Grilled Peppers",
+      "Grilled Mushrooms"
+    ],
+    "total_calories": 718.0,
+    "macros": {
+      "protein": 50.8,
+      "fat": 58.0,
+      "carbs": 5.0
+    },
+    "suggestions": [
+      "Add healthy fats like avocado or extra olive oil to hit fat targets."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Balanced",
+    "items_name": [
+      "Grilled Southwestern Chipotle Pesto Chicken Thigh",
+      "Brown Rice",
+      "Fresh Steamed Green Beans",
+      "Banana"
+    ],
+    "total_calories": 465.0,
+    "macros": {
+      "protein": 29.8,
+      "fat": 10.2,
+      "carbs": 48.0
+    },
+    "suggestions": [
+      "A well-rounded meal. Adjust portion sizes to fit your specific calorie needs."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "High-fiber",
+    "items_name": [
+      "Red Lentil Penne Pasta",
+      "Basil & Pepper Gourmet Beans",
+      "Lime Red Onion Lentils",
+      "Brown Rice",
+      "Edamame"
+    ],
+    "total_calories": 579.0,
+    "macros": {
+      "protein": 24.0,
+      "fat": 10.3,
+      "carbs": 95.9
+    },
+    "suggestions": [
+      "Ensure adequate water intake when consuming high-fiber meals."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Low-fat",
+    "items_name": [
+      "Asian Chicken Mongolian Grill",
+      "White Rice",
+      "Green Beans",
+      "Shredded Cabbage",
+      "Sugar Snap Peas",
+      "Baby Corn"
+    ],
+    "total_calories": 282.0,
+    "macros": {
+      "protein": 27.9,
+      "fat": 2.2,
+      "carbs": 33.7
+    },
+    "suggestions": [
+      "This meal is very lean. Add a small amount of healthy fat (e.g., a drizzle of olive oil) if suitable for your goals."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "High-fat",
+    "items_name": [
+      "Cheeseburger with American Cheese",
+      "Grilled Smoked Polish Sausage",
+      "Bacon Bits",
+      "Seasoned Spiral Fries",
+      "Sunflower Seeds",
+      "Olive Oil"
+    ],
+    "total_calories": 1285.0,
+    "macros": {
+      "protein": 54.3,
+      "fat": 99.8,
+      "carbs": 22.9
+    },
+    "suggestions": [
+      "This meal is very high in fat. Ensure it aligns with your dietary strategy."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Health/Medical Goals",
+    "subcategory": "Low-sodium",
+    "items_name": [
+      "Grilled Southwestern Chipotle Pesto Chicken Thigh",
+      "Fresh Steamed Broccoli",
+      "Roasted Carrots Yellow Squash and Red Onion",
+      "Brown Rice"
+    ],
+    "total_calories": 380.0,
+    "macros": {
+      "protein": 25.1,
+      "fat": 10.8,
+      "carbs": 37.4
+    },
+    "suggestions": [
+      "Use fresh herbs and spices instead of salt for flavor."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Health/Medical Goals",
+    "subcategory": "Low-cholesterol",
+    "items_name": [
+      "Malaysian Beef Rendang",
+      "Brown Rice",
+      "Fresh Roasted Carrots",
+      "Roasted Garlic Green Beans and Red Onions"
+    ],
+    "total_calories": 440.0,
+    "macros": {
+      "protein": 15.0,
+      "fat": 14.8,
+      "carbs": 51.5
+    },
+    "suggestions": [
+      "Focus on lean proteins, whole grains, and plenty of fruits and vegetables."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Health/Medical Goals",
+    "subcategory": "Diabetic-friendly",
+    "items_name": [
+      "Carved Smoked Turkey Breast",
+      "Brown Rice",
+      "Fresh Steamed Green Beans",
+      "Roasted Sweet Potatoes with Peppers",
+      "Apple"
+    ],
+    "total_calories": 506.0,
+    "macros": {
+      "protein": 29.8,
+      "fat": 8.0,
+      "carbs": 66.8
+    },
+    "suggestions": [
+      "Prioritize whole, unprocessed foods and monitor carbohydrate portions."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Health/Medical Goals",
+    "subcategory": "Heart-healthy",
+    "items_name": [
+      "Carved Smoked Turkey Breast",
+      "Brown Rice",
+      "Fresh Roasted Carrots",
+      "Roasted Sweet Potatoes with Peppers",
+      "Apple"
+    ],
+    "total_calories": 506.0,
+    "macros": {
+      "protein": 29.8,
+      "fat": 8.0,
+      "carbs": 66.8
+    },
+    "suggestions": [
+      "Choose lean protein, limit saturated and trans fats, and consume plenty of fruits, vegetables, and whole grains."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Health/Medical Goals",
+    "subcategory": "Low-glycemic",
+    "items_name": [
+      "Carved Smoked Turkey Breast",
+      "Basil & Pepper Gourmet Beans",
+      "Roasted Sweet Potatoes with Peppers",
+      "Spinach"
+    ],
+    "total_calories": 399.0,
+    "macros": {
+      "protein": 35.1,
+      "fat": 11.4,
+      "carbs": 38.7
+    },
+    "suggestions": [
+      "Combine carbohydrates with protein and healthy fats to slow glucose absorption."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Dietary Preference",
+    "subcategory": "Vegetarian",
+    "items_name": [
+      "Mushroom Spinach Provolone Grilled Cheese Sandwich",
+      "Cream of Tomato Soup",
+      "Jerk Spice Roasted Yukon Gold Potatoes",
+      "Apple"
+    ],
+    "total_calories": 638.0,
+    "macros": {
+      "protein": 28.5,
+      "fat": 20.9,
+      "carbs": 70.8
+    },
+    "suggestions": [
+      "Ensure good variety in plant-based proteins throughout the day."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Dietary Preference",
+    "subcategory": "Vegan",
+    "items_name": [
+      "Red Lentil Penne Pasta",
+      "Puttanesca Sauce",
+      "Roasted Corn, Black Beans and Tomatoes",
+      "Sweet Chili Ginger Broccoli",
+      "Mixed Greens"
+    ],
+    "total_calories": 447.0,
+    "macros": {
+      "protein": 14.5,
+      "fat": 10.3,
+      "carbs": 69.8
+    },
+    "suggestions": [
+      "Vary your vegetable and legume choices for a wider range of nutrients."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Dietary Preference",
+    "subcategory": "Pescatarian",
+    "items_name": [
+      "Herb Dijon Crusted Wild Blue Catfish",
+      "Saffron Basmati Rice",
+      "Roasted Garlic Green Beans and Red Onions",
+      "Apple"
+    ],
+    "total_calories": 490.0,
+    "macros": {
+      "protein": 17.6,
+      "fat": 16.4,
+      "carbs": 50.8
+    },
+    "suggestions": [
+      "This meal provides good omega-3s from the fish. Consider adding a side salad."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Dietary Preference",
+    "subcategory": "Plant-based",
+    "items_name": [
+      "Red Lentil Penne Pasta",
+      "Puttanesca Sauce",
+      "Roasted Sweet Potatoes with Peppers",
+      "Vegan Edamame Hummus",
+      "Mixed Greens"
+    ],
+    "total_calories": 502.0,
+    "macros": {
+      "protein": 16.2,
+      "fat": 17.0,
+      "carbs": 70.0
+    },
+    "suggestions": [
+      "Explore different plant-based sauces and seasonings to keep meals exciting."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Allergen-Specific",
+    "subcategory": "Gluten-free",
+    "items_name": [
+      "Grilled Smoked Polish Sausage",
+      "Grilled Southwestern Chipotle Pesto Chicken Thigh",
+      "Seasoned Spiral Fries",
+      "Roasted Sweet Potatoes with Peppers",
+      "Roasted Corn, Black Beans and Tomatoes"
+    ],
+    "total_calories": 810.0,
+    "macros": {
+      "protein": 40.5,
+      "fat": 31.7,
+      "carbs": 67.5
+    },
+    "suggestions": [
+      "Be cautious of cross-contamination in shared fryers or preparation areas."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Allergen-Specific",
+    "subcategory": "Dairy-free",
+    "items_name": [
+      "Ginger Glazed Tofu",
+      "Brown Rice",
+      "Roasted Sweet Potatoes with Peppers",
+      "Vegan Garlic Chili Chicken with Broccoli",
+      "Snap Peas & Carrots"
+    ],
+    "total_calories": 608.0,
+    "macros": {
+      "protein": 40.0,
+      "fat": 14.5,
+      "carbs": 80.5
+    },
+    "suggestions": [
+      "Always check labels for hidden dairy, especially in sauces and baked goods."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Allergen-Specific",
+    "subcategory": "Egg-free",
+    "items_name": [
+      "Grilled Smoked Polish Sausage",
+      "Carved Smoked Turkey Breast",
+      "Brown Rice",
+      "Fresh Steamed Green Beans",
+      "Peaches in syrup"
+    ],
+    "total_calories": 673.0,
+    "macros": {
+      "protein": 43.1,
+      "fat": 29.5,
+      "carbs": 47.7
+    },
+    "suggestions": [
+      "Egg is a common binder; be careful with processed meats and baked goods."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Allergen-Specific",
+    "subcategory": "Nut-free",
+    "items_name": [
+      "Cheeseburger with American Cheese",
+      "Potato Hamburger Roll",
+      "Seasoned Spiral Fries",
+      "Chocolate Chip Cookie"
+    ],
+    "total_calories": 756.0,
+    "macros": {
+      "protein": 22.8,
+      "fat": 33.6,
+      "carbs": 59.1
+    },
+    "suggestions": [
+      "Always check labels for 'may contain nuts' warnings, especially for cookies and other baked goods."
+    ]
+  },
+  {
+    "occasion": "Lunch",
+    "category": "Allergen-Specific",
+    "subcategory": "Soy-free",
+    "items_name": [
+      "Grilled Smoked Polish Sausage",
+      "Carved Smoked Turkey Breast",
+      "Bacon Bits",
+      "Seasoned Spiral Fries",
+      "Brown Rice"
+    ],
+    "total_calories": 990.0,
+    "macros": {
+      "protein": 55.4,
+      "fat": 42.6,
+      "carbs": 44.2
+    },
+    "suggestions": [
+      "Soy is a prevalent allergen; careful label reading is essential."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "High-calorie (Bulking)",
+    "items_name": [
+      "Shredded Smoked Pork Mac and Cheese Sandwich",
+      "Seasoned Spiral Fries",
+      "Warm Brownie"
+    ],
+    "total_calories": 1486.0,
+    "macros": {
+      "protein": 45.4,
+      "fat": 50.4,
+      "carbs": 173.2
+    },
+    "suggestions": [
+      "Incorporate high-calorie beverages or add more healthy fats like avocado or nuts to further increase intake."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Low-calorie (Cutting)",
+    "items_name": [
+      "Filipino Chicken Afritada",
+      "Fresh Steamed Broccoli",
+      "Fresh Steamed Green Beans",
+      "Mixed Greens",
+      "Chipotle Basil Cous Cous"
+    ],
+    "total_calories": 255.0,
+    "macros": {
+      "protein": 14.8,
+      "fat": 4.6,
+      "carbs": 26.5
+    },
+    "suggestions": [
+      "Focus on lean proteins and a high volume of non-starchy vegetables to stay full."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "High-protein",
+    "items_name": [
+      "Grilled Lemon Pepper Salmon",
+      "Carved Smoked Turkey Breast",
+      "Grilled Hot Dog",
+      "TOFU"
+    ],
+    "total_calories": 605.0,
+    "macros": {
+      "protein": 88.7,
+      "fat": 30.7,
+      "carbs": 2.3
+    },
+    "suggestions": [
+      "This meal is very high in protein. Ensure adequate hydration."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Low-carb",
+    "items_name": [
+      "Grilled Chicken American Burger",
+      "Grilled Hot Dog",
+      "Bacon Bits",
+      "Shredded Lettuce",
+      "Sliced Red Onion",
+      "Sliced Tomatoes",
+      "Grilled Peppers",
+      "Grilled Mushrooms"
+    ],
+    "total_calories": 673.0,
+    "macros": {
+      "protein": 34.0,
+      "fat": 49.3,
+      "carbs": 6.8
+    },
+    "suggestions": [
+      "Consider adding a side of avocado for healthy fats."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Keto",
+    "items_name": [
+      "Grilled Chicken American Burger",
+      "Grilled Hot Dog",
+      "Bacon Bits",
+      "Grilled Mushrooms",
+      "Shredded Lettuce"
+    ],
+    "total_calories": 568.0,
+    "macros": {
+      "protein": 40.5,
+      "fat": 44.5,
+      "carbs": 2.8
+    },
+    "suggestions": [
+      "Incorporate high-fat condiments like mayonnaise or avocado for additional healthy fats."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Balanced",
+    "items_name": [
+      "Filipino Chicken Afritada",
+      "Brown Rice",
+      "Roasted Carrots Yellow Squash and Red Onion",
+      "Apple"
+    ],
+    "total_calories": 331.0,
+    "macros": {
+      "protein": 12.3,
+      "fat": 4.8,
+      "carbs": 54.0
+    },
+    "suggestions": [
+      "This is a good base; adjust portion sizes or add more vegetables to fit your specific needs."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "High-fiber",
+    "items_name": [
+      "Whole Wheat Pasta (Cooked)",
+      "Lime Red Onion Lentils",
+      "Basil & Pepper Gourmet Beans",
+      "Roasted Sweet Potatoes with Peppers"
+    ],
+    "total_calories": 615.0,
+    "macros": {
+      "protein": 27.1,
+      "fat": 9.4,
+      "carbs": 109.2
+    },
+    "suggestions": [
+      "Ensure adequate water intake to support digestion with high fiber meals."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "Low-fat",
+    "items_name": [
+      "Filipino Chicken Afritada",
+      "Fresh Steamed Broccoli",
+      "Fresh Steamed Green Beans",
+      "Brown Rice",
+      "Mixed Greens"
+    ],
+    "total_calories": 293.0,
+    "macros": {
+      "protein": 15.6,
+      "fat": 4.8,
+      "carbs": 44.8
+    },
+    "suggestions": [
+      "Add a light, oil-free dressing to salads for extra flavor."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Nutritional Goal-Based",
+    "subcategory": "High-fat",
+    "items_name": [
+      "Shredded Smoked Pork Mac and Cheese Sandwich",
+      "Butter",
+      "Margarine",
+      "Cream Cheese Onion and Chive"
+    ],
+    "total_calories": 1584.0,
+    "macros": {
+      "protein": 59.5,
+      "fat": 86.8,
+      "carbs": 133.0
+    },
+    "suggestions": [
+      "This meal is very high in fat; ensure it aligns with your specific dietary strategy."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Health/Medical Goals",
+    "subcategory": "Low-sodium",
+    "items_name": [
+      "Grilled Lemon Pepper Salmon",
+      "Brown Rice",
+      "Roasted Carrots Yellow Squash and Red Onion",
+      "Apple"
+    ],
+    "total_calories": 445.0,
+    "macros": {
+      "protein": 46.7,
+      "fat": 10.8,
+      "carbs": 48.0
+    },
+    "suggestions": [
+      "Rinse canned vegetables and beans to reduce sodium, if using."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Health/Medical Goals",
+    "subcategory": "Low-cholesterol",
+    "items_name": [
+      "Ginger Glazed Tofu",
+      "Brown Rice",
+      "Roasted Carrots Yellow Squash and Red Onion",
+      "Spinach"
+    ],
+    "total_calories": 353.0,
+    "macros": {
+      "protein": 17.5,
+      "fat": 10.0,
+      "carbs": 45.4
+    },
+    "suggestions": [
+      "Focus on plant-based proteins and healthy fats like avocado and nuts."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Health/Medical Goals",
+    "subcategory": "Diabetic-friendly",
+    "items_name": [
+      "Filipino Chicken Afritada",
+      "Brown Rice",
+      "Roasted Sweet Potatoes with Peppers",
+      "Fresh Steamed Green Beans",
+      "Apple"
+    ],
+    "total_calories": 439.0,
+    "macros": {
+      "protein": 13.8,
+      "fat": 5.7,
+      "carbs": 70.0
+    },
+    "suggestions": [
+      "Monitor portion sizes of carb-containing foods and consult a dietitian for personalized guidance."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Health/Medical Goals",
+    "subcategory": "Heart-healthy",
+    "items_name": [
+      "Grilled Lemon Pepper Salmon",
+      "Brown Rice",
+      "Fresh Steamed Green Beans",
+      "Spinach",
+      "Apple"
+    ],
+    "total_calories": 490.0,
+    "macros": {
+      "protein": 48.2,
+      "fat": 10.0,
+      "carbs": 50.8
+    },
+    "suggestions": [
+      "Emphasize lean proteins, whole grains, and a variety of colorful vegetables."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Health/Medical Goals",
+    "subcategory": "Low-glycemic",
+    "items_name": [
+      "Ginger Glazed Tofu",
+      "Roasted Sweet Potatoes with Peppers",
+      "Basil & Pepper Gourmet Beans",
+      "Spinach"
+    ],
+    "total_calories": 435.0,
+    "macros": {
+      "protein": 22.1,
+      "fat": 13.5,
+      "carbs": 49.9
+    },
+    "suggestions": [
+      "Pair carbohydrates with protein and healthy fats to minimize blood sugar spikes."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Dietary Preference",
+    "subcategory": "Vegetarian",
+    "items_name": [
+      "Linguni Mushroom Bolgnase",
+      "Parmesan Garlic Bread",
+      "Tomato Florentine Soup",
+      "Roasted Corn Cherry Tomatoes and Mozzarella Cheese"
+    ],
+    "total_calories": 612.0,
+    "macros": {
+      "protein": 23.1,
+      "fat": 20.4,
+      "carbs": 81.9
+    },
+    "suggestions": [
+      "Ensure good variety in plant-based proteins throughout the day."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Dietary Preference",
+    "subcategory": "Vegan",
+    "items_name": [
+      "Red Lentil Penne Pasta",
+      "Puttanesca Sauce",
+      "Roasted Sweet Potatoes with Peppers",
+      "Vegan Edamame Hummus",
+      "Mixed Greens"
+    ],
+    "total_calories": 502.0,
+    "macros": {
+      "protein": 16.2,
+      "fat": 17.0,
+      "carbs": 70.0
+    },
+    "suggestions": [
+      "Look for fortified plant-based milks and yogurts to meet calcium and vitamin D needs."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Dietary Preference",
+    "subcategory": "Pescatarian",
+    "items_name": [
+      "Grilled Lemon Pepper Salmon",
+      "Brown Rice",
+      "Roasted Corn, Black Beans and Tomatoes",
+      "Apple"
+    ],
+    "total_calories": 551.0,
+    "macros": {
+      "protein": 48.7,
+      "fat": 11.9,
+      "carbs": 51.5
+    },
+    "suggestions": [
+      "This meal provides a good source of omega-3s from the salmon."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Dietary Preference",
+    "subcategory": "Plant-based",
+    "items_name": [
+      "Ginger Glazed Tofu",
+      "Brown Rice",
+      "Roasted Sweet Potatoes with Peppers",
+      "Basil & Pepper Gourmet Beans",
+      "Spinach"
+    ],
+    "total_calories": 535.0,
+    "macros": {
+      "protein": 24.3,
+      "fat": 14.8,
+      "carbs": 70.3
+    },
+    "suggestions": [
+      "Aim for a wide variety of plant-based foods to ensure adequate nutrient intake."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Allergen-Specific",
+    "subcategory": "Gluten-free",
+    "items_name": [
+      "Grilled Chicken American Burger",
+      "Grilled Hot Dog",
+      "Seasoned Spiral Fries",
+      "Roasted Sweet Potatoes with Peppers",
+      "Roasted Corn, Black Beans and Tomatoes"
+    ],
+    "total_calories": 792.0,
+    "macros": {
+      "protein": 34.0,
+      "fat": 32.7,
+      "carbs": 64.9
+    },
+    "suggestions": [
+      "Confirm no gluten-containing ingredients in sauces or processed items. Be mindful of cross-contamination."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Allergen-Specific",
+    "subcategory": "Dairy-free",
+    "items_name": [
+      "Ginger Glazed Tofu",
+      "Brown Rice",
+      "Roasted Sweet Potatoes with Peppers",
+      "Basil & Pepper Gourmet Beans",
+      "Spinach"
+    ],
+    "total_calories": 535.0,
+    "macros": {
+      "protein": 24.3,
+      "fat": 14.8,
+      "carbs": 70.3
+    },
+    "suggestions": [
+      "Many processed foods contain hidden dairy; always check ingredient labels carefully."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Allergen-Specific",
+    "subcategory": "Egg-free",
+    "items_name": [
+      "Grilled Hot Dog",
+      "Potato Hot Dog Roll",
+      "Seasoned Spiral Fries",
+      "BBQ Sauce",
+      "Roasted Sweet Potatoes with Peppers"
+    ],
+    "total_calories": 608.0,
+    "macros": {
+      "protein": 11.8,
+      "fat": 22.8,
+      "carbs": 81.3
+    },
+    "suggestions": [
+      "Verify that bread and sauces are egg-free, as eggs can be used as binders or ingredients."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Allergen-Specific",
+    "subcategory": "Nut-free",
+    "items_name": [
+      "Grilled Chicken American Burger",
+      "Potato Hamburger Roll",
+      "Seasoned Spiral Fries",
+      "Chocolate Chip Cookie"
+    ],
+    "total_calories": 726.0,
+    "macros": {
+      "protein": 26.6,
+      "fat": 33.7,
+      "carbs": 50.5
+    },
+    "suggestions": [
+      "Be cautious of shared equipment for baked goods or items with 'may contain nuts' warnings."
+    ]
+  },
+  {
+    "occasion": "Dinner",
+    "category": "Allergen-Specific",
+    "subcategory": "Soy-free",
+    "items_name": [
+      "Grilled Hot Dog",
+      "Bacon Bits",
+      "Seasoned Spiral Fries",
+      "Brown Rice",
+      "Roasted Sweet Potatoes with Peppers"
+    ],
+    "total_calories": 704.0,
+    "macros": {
+      "protein": 23.4,
+      "fat": 23.8,
+      "carbs": 40.3
+    },
+    "suggestions": [
+      "Soy is present in many ingredients; careful label reading is essential."
+    ]
+  }
+]
